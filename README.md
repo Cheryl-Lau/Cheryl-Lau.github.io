@@ -1,2 +1,2 @@
-# Cheryl-Lau.github.io
+# Cheryl S. C. Lau
 testing 
