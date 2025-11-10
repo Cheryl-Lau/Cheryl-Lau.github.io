@@ -36,7 +36,7 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 2024 June &emsp; Research visit to Theoretical Astrophysics group Cologne (**Invited**)     
 2024 June &emsp; SPHERIC 2024, Berlin (Contributed)    
 2024 Feb &nbsp; &emsp; ECOGAL winter school, Les Houches (Contributed)     
-2023 Mar &nbsp; &emsp; Phantom workshop 2024, Online (Contributed) 
+2023 Mar &emsp; Phantom workshop 2024, Online (Contributed) 
 
 
 ## Teaching 
