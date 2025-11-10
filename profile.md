@@ -7,25 +7,31 @@ permalink: /profile
 ## Education
 
 #### 2021-2025 Ph.D. University of St Andrews
-Supervisor: Prof. Ian A. Bonnell
+Supervisor: Prof. Ian A. Bonnell    
 Thesis title: The Shocking Stars - Numerical modelling of stellar feedback in Giant Molecular Clouds 
 
 #### 2018-2021 M.Sc.R. University of York 
-Supervisor: Dr. Emily Brunsden 
+Supervisor: Dr. Emily Brunsden     
 Thesis title: Stellar rotation formalisms of γ Doradus stars from gravity-mode period spacings 
 
 #### 2015-2018 B.Sc. University of York 
-Supervisor: Dr. Chris Murphy 
-FYP supervisor: Dr. Emily Brunsden 
-**First-class honours with Distinction (85%)**
+Supervisor: Dr. Chris Murphy       
+FYP supervisor: Dr. Emily Brunsden      
+**First-class honours with Distinction (85%)**      
 Dissertation title: Estimating distances to type I Cepheid variables using the Period-Luminosity relation with visual photometry
 
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ## Grants & Awards 
-2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH 
-2021 &emsp; UKRI STFC training grant PhD full scholarship 
-2019 &emsp; University of York Departmental scholarship for MSc studies
-2018 &emsp; University of York 1st-place Goodwin Prize for best final-year project
+|2024 &emsp; |SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH |
+|2021 &emsp; |UKRI STFC training grant PhD full scholarship |
+|2019 &emsp; |University of York Departmental scholarship for MSc studies |
+|2018 &emsp; |University of York 1st-place Goodwin Prize for best final-year project |
 
 
 ## Conference talks
