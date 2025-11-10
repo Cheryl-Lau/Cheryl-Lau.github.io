@@ -1,4 +1,6 @@
 # Cheryl S. C. Lau
 testing 
 
-[link to my RESEARCH page](research.md)
+[RESEARCH](research.md)
+
+[CONTACT](contact.md)
