@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-permalink: https://cheryl-lau.github.io/research
+permalink: /research
 ---
 
 I do the following crap. 
