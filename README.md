@@ -1,7 +1,7 @@
 
-|         :----:        |          :----:         |         :----:        |
-| [HOME](README.md)     | [RESEARCH](research.md) | [CONTACT](contact.md) |
-| [PROFILE](profile.md) | [CODES](codes.md)       | [PHOTOS](photos.md)   |
+|         :----:        |          :----:         |         :----:          |         :----:        |          :----:         |         :----:        |
+| [HOME](README.md)     | [PROFILE](profile.md)   | [RESEARCH](research.md) | [CODES](codes.md)     | [PHOTOS](photos.md)     | [CONTACT](contact.md) |
+
 
 # Cheryl S. C. Lau
 
