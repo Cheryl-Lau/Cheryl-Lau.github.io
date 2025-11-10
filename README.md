@@ -1,6 +1,5 @@
 
-|         :----:        |          :----:         |         :----:          |         :----:        |          :----:         |         :----:        |
-| [HOME](README.md)     | [PROFILE](profile.md)   | [RESEARCH](research.md) | [CODES](codes.md)     | [PHOTOS](photos.md)     | [CONTACT](contact.md) |
+[HOME](README.md) &emsp [PROFILE](profile.md) &emsp [RESEARCH](research.md) &emsp [CODES](codes.md) &emsp [PHOTOS](photos.md) &emsp [CONTACT](contact.md)
 
 
 # Cheryl S. C. Lau
