@@ -3,9 +3,7 @@
 
 # Cheryl S. C. Lau
 
+<img align="left" src="images/me.jpeg" alt="myself" width="500" height="500"/>
+
 testing 
-
-<img align="left" src="https://github.com/Cheryl-Lau/Cheryl-Lau.github.io/blob/main/me.jpeg" width="600" height="600"/>
-
-
 
