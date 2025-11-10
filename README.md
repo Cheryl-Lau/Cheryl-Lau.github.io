@@ -5,8 +5,7 @@
 
 testing 
 
-<p align="center">
-  <img src="https://github.com/Cheryl-Lau/Cheryl-Lau.github.io/blob/main/me.jpeg" width="100" height="100"/>
-</p>
+<img align="left" src="https://github.com/Cheryl-Lau/Cheryl-Lau.github.io/blob/main/me.jpeg" width="600" height="600"/>
+
 
 
