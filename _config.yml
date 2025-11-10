@@ -6,7 +6,7 @@ plugins:
 
 lsi: false
 safe: true
-source: https://github.com/Cheryl-Lau/Cheryl-Lau.github.io
+source: /
 incremental: false
 highlighter: rouge
 gist:
