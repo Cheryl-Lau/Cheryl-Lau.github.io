@@ -27,14 +27,6 @@ Supervisors: Dr. Chris Murphy (academic), Dr. Emily Brunsden (FYP)
 Dissertation title: Estimating distances to type I Cepheid variables using the Period-Luminosity relation with visual photometry
 
 
-## Grants & Awards 
-2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH     
-2021 &emsp; UKRI STFC training grant PhD full scholarship       
-2019 &emsp; University of York Departmental scholarship for MSc studies      
-2018 &emsp; University of York 1st-place Goodwin Prize for best final-year project 
-
-2024 &emsp; <span class="negative-indent">SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</span>
-
 <style>
 .negative-indent {
     margin-left: 50px;
@@ -42,8 +34,18 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 }
 </style>
 
+## Grants & Awards 
 <div class="negative-indent">
   <p>2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</p>
+</div>
+<div class="negative-indent">
+  <p>2021 &emsp; UKRI STFC training grant PhD full scholarship</p>
+</div>
+<div class="negative-indent">
+  <p>2019 &emsp; University of York Departmental scholarship for MSc studies</p>
+</div>
+<div class="negative-indent">
+  <p>2018 &emsp; University of York 1st-place Goodwin Prize for best final-year project</p>
 </div>
 
 ## Conference talks
