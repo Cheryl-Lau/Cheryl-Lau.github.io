@@ -67,7 +67,7 @@ I also assissted/co-supervised the following MSc project students with Prof. Ian
 2023 Spring &emsp; Florence Harper (now as Robin Harper) 
 
 #### University of York 
-I worked at a Graduate Teaching Assistant for the following undergraduate courses:
+I worked at a Graduate Teaching Assistant for the following undergraduate courses:     
 2020 Spring &emsp; 2nd-year Mathematics (tutor)    
 2020 Spring &emsp; 1st-year Python lab (lab demonstrator)    
 2020 Spring &emsp; 1st-year Vibrations and waves (tutor)    
