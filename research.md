@@ -5,7 +5,7 @@ permalink: /research
 [HOME](README.md) &emsp; [PROFILE](profile.md) &emsp; [RESEARCH](research.md) &emsp; [CODES](codes.md) &emsp; [PHOTOS](photos.md) &emsp; [CONTACT](contact.md)
 
 
-## Upcoming 
+## Upcoming papers  
 
 ### Binary accretion in clusters 
 
@@ -20,7 +20,7 @@ Blah.
 ### Feedback channels in Giant Molecular Clouds 
 
 
-## Published
+## Published papers 
 
 ### A semi-confined Supernova explosion 
 
