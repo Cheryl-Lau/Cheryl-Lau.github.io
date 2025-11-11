@@ -5,10 +5,12 @@
 
 <img align="left" src="images/me.jpeg" alt="myself" width="250" height="250" style="margin-left: 0px; margin-right: 25px; margin-top: 0px, margin-bottom: 25px;" />
 
-Hi! I am a theoretical/computational astrophysicist and I recently completed my PhD at the University of St Andrews with Prof. Ian Bonnell, specialising in modelling stellar feedback in molecular clouds. My work primarily involves making SPH and N-body simulations of stars, and my goal is to do this for a living. 
+<div>
+
+<p>Hi! I am a theoretical/computational astrophysicist and I recently completed my PhD at the University of St Andrews with Prof. Ian Bonnell, specialising in modelling stellar feedback in molecular clouds. My work primarily involves making SPH and N-body simulations of stars, and my goal is to do this for a living. 
 Previously I obtained my MSc by Research degree at the University of York under the supervision of Dr. Emily Brunsden, where I worked on asteroseismology. 
-I also completed my BSc degree at the University of York, because I loved ~~their mallards~~ their physics department. 
+I also completed my BSc degree at the University of York, because I loved ~~their mallards~~ their physics department.</p>
 
-I am a Hongkonger but I spent more time living in the UK since 2015. Obsession with cats is usually what I am known for. Drawing is my passion and I'm a big fan of Japanese anime. As an indoor-cat-person, sports are not my thing; the photo above shows a rare sighting of me standing in sunlight. 
+<p>I am a Hongkonger but I spent more time living in the UK since 2015. Obsession with cats is usually what I am known for. Drawing is my passion and I'm a big fan of Japanese anime. As an indoor-cat-person, sports are not my thing; the photo above shows a rare sighting of me standing in sunlight.</p>
 
-
+</div>
