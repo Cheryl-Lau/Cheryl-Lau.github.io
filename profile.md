@@ -34,7 +34,9 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 }
 </style>
 
+
 ## Grants & Awards 
+
 <div class="negative-indent">
   <p>2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</p>
 </div>
@@ -48,17 +50,39 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
   <p>2018 &emsp; University of York 1st-place Goodwin Prize for best final-year project</p>
 </div>
 
+
 ## Conference talks
-2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)     
-2025 June &emsp; Phantom workshop 2025, Grenoble (**Invited**)     
-2025 May &emsp; Bally Fest, Hunagry (Contributed)     
-2024 Sep &nbsp; &emsp; UK galactic star formation, Armagh (Contributed)     
-2024 Sep &nbsp; &emsp; German Astronomical Society meeintg 2024, Cologne (Contributed x2)    
-2024 June &emsp; Research visit to Theoretical Astrophysics group Cologne (**Invited**)     
-2024 June &emsp; SPHERIC 2024, Berlin (Contributed)    
-2024 Feb &nbsp; &emsp; ECOGAL winter school, Les Houches (Contributed)     
-2023 Mar &emsp; Phantom workshop 2024, Online (Contributed)   
-2019 July &emsp; NAM 2019, Lancaster (Contributed poster)
+
+<div class="negative-indent">
+  <p>2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)</p>
+</div>
+<div class="negative-indent">
+  <p>2025 June &emsp; Phantom workshop 2025, Grenoble (**Invited**)</p>
+</div>
+<div class="negative-indent">
+  <p>2025 May &emsp; Bally Fest, Hunagry (Contributed)</p>
+</div>
+<div class="negative-indent">
+  <p>2024 Sep &nbsp; &emsp; UK galactic star formation, Armagh (Contributed)</p>
+</div>
+<div class="negative-indent">
+  <p>2024 Sep &nbsp; &emsp; German Astronomical Society meeintg 2024, Cologne (Contributed x2)</p>
+</div>
+<div class="negative-indent">
+  <p>2024 June &emsp; Research visit to Theoretical Astrophysics group Cologne (**Invited**)</p>
+</div>
+<div class="negative-indent">
+  <p>2024 June &emsp; SPHERIC 2024, Berlin (Contributed)</p>
+</div>
+<div class="negative-indent">
+  <p>2024 Feb &nbsp; &emsp; ECOGAL winter school, Les Houches (Contributed)</p>
+</div>
+<div class="negative-indent">
+  <p>2023 Mar &emsp; Phantom workshop 2024, Online (Contributed)</p>
+</div>
+<div class="negative-indent">
+  <p>2019 July &emsp; NAM 2019, Lancaster (Contributed poster)</p>
+</div>
 
 
 ## Teaching 
