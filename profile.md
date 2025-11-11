@@ -57,7 +57,7 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
   <p>2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)</p>
 </div>
 <div class="negative-indent">
-  <p>2025 June &emsp; Phantom workshop 2025, Grenoble (**Invited**)</p>
+  <p>2025 June &emsp; Phantom workshop 2025, Grenoble (Invited)</p>
 </div>
 <div class="negative-indent">
   <p>2025 May &emsp; Bally Fest, Hunagry (Contributed)</p>
@@ -66,10 +66,10 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
   <p>2024 Sep &nbsp; &emsp; UK galactic star formation, Armagh (Contributed)</p>
 </div>
 <div class="negative-indent">
-  <p>2024 Sep &nbsp; &emsp; German Astronomical Society meeintg 2024, Cologne (Contributed x2)</p>
+  <p>2024 Sep &nbsp; &emsp; German Astronomical Society meeting 2024, Cologne (Contributed x2)</p>
 </div>
 <div class="negative-indent">
-  <p>2024 June &emsp; Research visit to Theoretical Astrophysics group Cologne (**Invited**)</p>
+  <p>2024 June &emsp; Research visit to the Theoretical Astrophysics Cologne group, Cologne (Invited)</p>
 </div>
 <div class="negative-indent">
   <p>2024 June &emsp; SPHERIC 2024, Berlin (Contributed)</p>
@@ -81,22 +81,39 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
   <p>2023 Mar &emsp; Phantom workshop 2024, Online (Contributed)</p>
 </div>
 <div class="negative-indent">
-  <p>2019 July &emsp; NAM 2019, Lancaster (Contributed poster)</p>
+  <p>2019 July &nbsp; &emsp; NAM 2019, Lancaster (Contributed poster)</p>
 </div>
 
 
 ## Teaching 
 
-#### University of St Andrews 
-I worked at a Graduate Teaching Assistant for the following undergraduate courses:    
-2025 Spring &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)     
-2024 Winter &emsp; AS1001 1st-year Astronomy and Astriphysics (tutor)    
-2024 Spring &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)    
-2023 Winter &emsp; AS1001 1st-year Astronomy and Astriphysics (tutor)   
-2023 Spring &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)    
-2022 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astriphysics (lab demonstrator)    
-2022 Spring &emsp; AS2001 2nd-year Astronomy and Astriphysics (lab demonstrator)    
-2021 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astriphysics (lab demonstrator)
+#### At University of St Andrews 
+I worked at a Graduate Teaching Assistant for the following undergraduate courses:  
+<div class="negative-indent">
+  <p>2025 Spring &nbsp; &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)</p>
+</div>
+<div class="negative-indent">
+  <p>2024 Winter &emsp; AS1001 1st-year Astronomy and Astriphysics (tutor)</p>
+</div>
+<div class="negative-indent">
+  <p>2024 Spring &nbsp; &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)</p>
+</div>
+<div class="negative-indent">
+  <p>2023 Winter &emsp; AS1001 1st-year Astronomy and Astrophysics (tutor)</p>
+</div>
+<div class="negative-indent">
+  <p>2023 Spring &nbsp; &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)</p>
+</div>
+<div class="negative-indent">
+  <p>2022 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
+</div>
+<div class="negative-indent">
+  <p>2022 Spring &nbsp; &emsp; AS2001 2nd-year Astronomy and Astriphysics (lab demonstrator)</p>
+</div>
+<div class="negative-indent">
+  <p>2021 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
+</div>
+
 
 I also assissted/co-supervised the following MSc project students with Prof. Ian Bonnell:    
 2024 Spring &emsp; Pavani Kumar   
