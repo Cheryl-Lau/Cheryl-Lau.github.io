@@ -7,20 +7,21 @@ permalink: /profile
 ## Education
 
 #### 2021-2025 Ph.D. University of St Andrews
-School of Physics and Astronomy, Scotland, UK
+<span style="color:grey">School of Physics and Astronomy, Scotland, UK</span>     
 Supervisor: Prof. Ian A. Bonnell    
-Thesis title: The Shocking Stars - Numerical modelling of stellar feedback in Giant Molecular Clouds 
-[Publicly available at the St Andrews thesis repo](https://research-repository.st-andrews.ac.uk/handle/10023/32588)
+Thesis title: The Shocking Stars - Numerical modelling of stellar feedback in Giant Molecular Clouds      
+[Publicly available at the St Andrews thesis repo](https://research-repository.st-andrews.ac.uk/handle/10023/32588)       
 Examiners: Prof. Matthew Bate (external), Prof. Moira Jardine (internal) 
 
 #### 2018-2021 M.Sc.R. University of York 
-Department of Physics, England, UK 
+Department of Physics, England, UK      
 Supervisor: Dr. Emily Brunsden     
-Thesis title: Stellar rotation formalisms of γ Doradus stars from gravity-mode period spacings 
-[Publicly available at the White Rose thesis repo](https://etheses.whiterose.ac.uk/id/eprint/27532/)
+Thesis title: Stellar rotation formalisms of γ Doradus stars from gravity-mode period spacings      
+[Publicly available at the White Rose thesis repo](https://etheses.whiterose.ac.uk/id/eprint/27532/)       
 Examiners: Prof. Catherine Lovekin (external), Prof. Phil Lightfoot (internal) 
 
 #### 2015-2018 B.Sc. University of York 
+Department of Physics, England, UK     
 Supervisors: Dr. Chris Murphy (academic), Dr. Emily Brunsden (FYP)      
 **First-class honours with Distinction (85%)**      
 Dissertation title: Estimating distances to type I Cepheid variables using the Period-Luminosity relation with visual photometry
