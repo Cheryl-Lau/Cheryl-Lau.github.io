@@ -7,12 +7,18 @@ permalink: /profile
 ## Education
 
 #### 2021-2025 Ph.D. University of St Andrews
+School of Physics and Astronomy, Scotland, UK
 Supervisor: Prof. Ian A. Bonnell    
 Thesis title: The Shocking Stars - Numerical modelling of stellar feedback in Giant Molecular Clouds 
+[Publicly available at the St Andrews thesis repo](https://research-repository.st-andrews.ac.uk/handle/10023/32588)
+Examiners: Prof. Matthew Bate (external), Prof. Moira Jardine (internal) 
 
 #### 2018-2021 M.Sc.R. University of York 
+Department of Physics, England, UK 
 Supervisor: Dr. Emily Brunsden     
 Thesis title: Stellar rotation formalisms of γ Doradus stars from gravity-mode period spacings 
+[Publicly available at the White Rose thesis repo](https://etheses.whiterose.ac.uk/id/eprint/27532/)
+Examiners: Prof. Catherine Lovekin (external), Prof. Phil Lightfoot (internal) 
 
 #### 2015-2018 B.Sc. University of York 
 Supervisors: Dr. Chris Murphy (academic), Dr. Emily Brunsden (FYP)      
@@ -26,14 +32,6 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 2019 &emsp; University of York Departmental scholarship for MSc studies      
 2018 &emsp; University of York 1st-place Goodwin Prize for best final-year project 
 
-2024
-* SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH
-2021
-* UKRI STFC training grant PhD scholarship
-2019
-* University of York Departmental scholarship for MSc studies
-2018
-* University of York 1st-place Goodwin Prize for best final-year project 
 
 ## Conference talks
 2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)     
