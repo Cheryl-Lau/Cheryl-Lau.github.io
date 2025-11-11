@@ -38,9 +38,13 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 <style>
 .negative-indent {
     margin-left: 50px;
+    text-indent: -50px;
 }
 </style>
 
+<div class="negative-indent">
+  <p>2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</p>
+</div>
 
 ## Conference talks
 2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)     
