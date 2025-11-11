@@ -33,6 +33,14 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 2019 &emsp; University of York Departmental scholarship for MSc studies      
 2018 &emsp; University of York 1st-place Goodwin Prize for best final-year project 
 
+<p><span class="a">2024</span>  <span class="b">SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</span> 
+</p>
+<p><span class="a">2021</span>  <span class="b">UKRI STFC training grant PhD full scholarship</span>
+</p>
+<p><span class="a">2019</span>  <span class="b">University of York Departmental scholarship for MSc studies</span> 
+</p>
+<p><span class="a">2018</span>  <span class="b">University of York 1st-place Goodwin Prize for best final-year project</span> 
+</p>
 
 ## Conference talks
 2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)     
