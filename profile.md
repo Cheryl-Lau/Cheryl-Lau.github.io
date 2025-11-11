@@ -31,8 +31,8 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 
 <style>
 .negative-indent {
-    margin-left: 60px;
-    text-indent: -60px;
+    margin-left: 55px;
+    text-indent: -55px;
 }
 </style>
 
@@ -101,7 +101,7 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 </style>
 
 #### At University of St Andrews 
-I worked at a Graduate Teaching Assistant for the following undergraduate courses:  
+I worked as a Graduate Teaching Assistant for the following undergraduate courses:  
 <div class="negative-indent-teaching">
   <p>2025 Spring &emsp; 3rd-year Computational astrophysics (lab demonstrator)</p>
 </div>
@@ -142,7 +142,7 @@ I also assissted/co-supervised the following MSc project students with Prof. Ian
 </div>
 
 #### At University of York 
-I worked at a Graduate Teaching Assistant for the following undergraduate courses:
+I worked as a Graduate Teaching Assistant for the following undergraduate courses:
 <div class="negative-indent-teaching">
   <p>2020 Spring &emsp; 2nd-year Mathematics (problem class tutor)</p>
 </div>
