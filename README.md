@@ -5,7 +5,7 @@
 
 <img align="left" src="images/me.jpeg" alt="myself" width="250" height="250" style="margin: 0px 25px" />
 
-Hi! I am a theoretical/computational astrophysicist and I recently completed my PhD studies at the University of St Andrews with Prof. Ian Bonnell, specialising in modelling stellar feedback in molecular clouds. I work with SPH and N-body simulations of stars, and my goal is to be able to do this for a living. 
+Hi! I am a theoretical/computational astrophysicist and I recently completed my PhD at the University of St Andrews with Prof. Ian Bonnell, specialising in modelling stellar feedback in molecular clouds. My work primarily involves making SPH and N-body simulations of stars, and my goal is to do this for a living. 
 Previously I obtained my MSc by Research degree at the University of York under the supervision of Dr. Emily Brunsden, where I worked on asteroseismology. 
 I also completed my BSc degree at the University of York, because I loved ~~their mallards~~ their physics department. 
 
