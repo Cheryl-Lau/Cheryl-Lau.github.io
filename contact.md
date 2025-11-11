@@ -11,7 +11,7 @@ Personal email: lausiching@gmail.com
 
 
 
-#### Clarifications regarding my name
+#### Clarifications regarding my name:
 
 My name in full is Cheryl Si Ching Lau, known as Cheryl Lau. Name in Chinese is written as 劉思晴. 
 
