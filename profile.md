@@ -72,7 +72,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2025 June &emsp; Phantom workshop 2025, Grenoble (Invited)</p>
+  <p>2025 June &emsp; Phantom workshop 2025, Grenoble (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
   <p>2025 May &nbsp; &emsp; Bally Fest, Hunagry (Contributed)</p>
@@ -84,7 +84,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2024 Sep &nbsp; &emsp; German Astronomical Society meeting 2024, Cologne (Contributed x2)</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2024 June &emsp; Research visit to the Theoretical Astrophysics Cologne group, Cologne (Invited)</p>
+  <p>2024 June &emsp; Research visit to the Theoretical Astrophysics Cologne group, Cologne (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
   <p>2024 June &emsp; SPHERIC 2024, Berlin (Contributed)</p>
