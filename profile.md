@@ -33,12 +33,11 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 2019 &emsp; University of York Departmental scholarship for MSc studies      
 2018 &emsp; University of York 1st-place Goodwin Prize for best final-year project 
 
-<span class="negative-indent">2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</span>
+2024 &emsp; <span class="negative-indent">SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</span>
 
 <style>
 .negative-indent {
-    margin-left: 40px;
-    text-indent: -40px;
+    margin-left: 50px;
 }
 </style>
 
