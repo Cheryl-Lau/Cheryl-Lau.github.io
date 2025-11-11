@@ -31,8 +31,8 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 
 <style>
 .negative-indent {
-    margin-left: 50px;
-    text-indent: -50px;
+    margin-left: 60px;
+    text-indent: -60px;
 }
 </style>
 
@@ -103,28 +103,28 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 #### At University of St Andrews 
 I worked at a Graduate Teaching Assistant for the following undergraduate courses:  
 <div class="negative-indent-teaching">
-  <p>2025 Spring &nbsp; &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)</p>
+  <p>2025 Spring &emsp; 3rd-year Computational astrophysics (lab demonstrator)</p>
 </div>
 <div class="negative-indent-teaching">
-  <p>2024 Winter &emsp; AS1001 1st-year Astronomy and Astriphysics (tutor)</p>
+  <p>2024 Winter &emsp; 1st-year Astronomy and Astrophysics (tutor)</p>
 </div>
 <div class="negative-indent-teaching">
-  <p>2024 Spring &nbsp; &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)</p>
+  <p>2024 Spring &emsp; 3rd-year Computational astrophysics (lab demonstrator)</p>
 </div>
 <div class="negative-indent-teaching">
-  <p>2023 Winter &emsp; AS1001 1st-year Astronomy and Astrophysics (tutor)</p>
+  <p>2023 Winter &emsp; 1st-year Astronomy and Astrophysics (tutor)</p>
 </div>
 <div class="negative-indent-teaching">
-  <p>2023 Spring &nbsp; &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)</p>
+  <p>2023 Spring &emsp; 3rd-year Computational astrophysics (lab demonstrator)</p>
 </div>
 <div class="negative-indent-teaching">
-  <p>2022 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
+  <p>2022 Winter &emsp; 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
 </div>
 <div class="negative-indent-teaching">
-  <p>2022 Spring &nbsp; &emsp; AS2001 2nd-year Astronomy and Astriphysics (lab demonstrator)</p>
+  <p>2022 Spring &emsp; 2nd-year Astronomy and Astrophysics (lab demonstrator)</p>
 </div>
 <div class="negative-indent-teaching">
-  <p>2021 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
+  <p>2021 Winter &emsp; 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
 </div>
 
 I also assissted/co-supervised the following MSc project students with Prof. Ian Bonnell:
