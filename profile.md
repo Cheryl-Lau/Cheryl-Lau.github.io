@@ -38,7 +38,7 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 ## Grants & Awards 
 
 <div class="negative-indent">
-  <p>2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</p>
+  <p>2024 &emsp; SPHERIC 2024 (Berlin) 2<sup>nd</sup>-place Libersky Prize for research on SPH</p>
 </div>
 <div class="negative-indent">
   <p>2021 &emsp; UKRI STFC training grant PhD full scholarship</p>
@@ -47,7 +47,7 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
   <p>2019 &emsp; University of York Departmental scholarship for MSc studies</p>
 </div>
 <div class="negative-indent">
-  <p>2018 &emsp; University of York 1st-place Goodwin Prize for best final-year project</p>
+  <p>2018 &emsp; University of York 1<sup>st</sup>-place Goodwin Prize for best final-year project</p>
 </div>
 
 
@@ -114,25 +114,45 @@ I worked at a Graduate Teaching Assistant for the following undergraduate course
   <p>2021 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
 </div>
 
+I also assissted/co-supervised the following MSc project students with Prof. Ian Bonnell:
+<div class="negative-indent">
+  <p>2024 Spring &emsp; Pavani Kumar</p>
+</div>
+<div class="negative-indent">
+  <p>2024 Spring &emsp; Jesus Miguel Yulo Asuncion</p>
+</div>
+<div class="negative-indent">
+  <p>2024 Spring &emsp; Daniel Maske</p>
+</div>
+<div class="negative-indent">
+  <p>2023 Spring &emsp; Florence Harper (now as Robin Harper)</p>
+</div>
 
-I also assissted/co-supervised the following MSc project students with Prof. Ian Bonnell:    
-2024 Spring &emsp; Pavani Kumar   
-2024 Spring &emsp; Jesus Miguel Yulo Asuncion    
-2024 Spring &emsp; Daniel Maske    
-2023 Spring &emsp; Florence Harper (now as Robin Harper) 
-
-#### University of York 
-I worked at a Graduate Teaching Assistant for the following undergraduate courses:     
-2020 Spring &emsp; 2nd-year Mathematics (tutor)    
-2020 Spring &emsp; 1st-year Python lab (lab demonstrator)    
-2020 Spring &emsp; 1st-year Vibrations and waves (tutor)    
-2020 Spring &emsp; 1st-year Electromagnetism (tutor)    
-2020 Spring &emsp; 1st-year Mapping the universe (tutor)    
-2019 Winter &emsp; 2nd-year Python lab for astrophysics students (lab demonstrator)    
-2019 Winter &emsp; 3rd-year Advanced astrophysics laboratory (lab demonstrator)    
-2019 Spring &emsp; 2nd-year Electromagnetism and optics (tutor) 
-
-
-
+#### At University of York 
+I worked at a Graduate Teaching Assistant for the following undergraduate courses:
+<div class="negative-indent">
+  <p>2020 Spring &emsp; 2nd-year Mathematics (problem class tutor)</p>
+</div>
+<div class="negative-indent">
+  <p>2020 Spring &emsp; 1st-year Python lab (lab demonstrator)</p>
+</div>
+<div class="negative-indent">
+  <p>2020 Spring &emsp; 1st-year Vibrations and waves (problem class tutor)</p>
+</div>
+<div class="negative-indent">
+  <p>2020 Spring &emsp; 1st-year Electromagnetism (problem class tutor)</p>
+</div>
+<div class="negative-indent">
+  <p>2020 Spring &emsp; 1st-year Mapping the universe (problem class tutor)</p>
+</div>
+<div class="negative-indent">
+  <p>2019 Winter &emsp; 2nd-year Python lab for astrophysics students (lab demonstrator)</p>
+</div>
+<div class="negative-indent">
+  <p>2019 Winter &emsp; 3rd-year Advanced astrophysics laboratory (lab demonstrator)</p>
+</div>
+<div class="negative-indent">
+  <p>2019 Spring &emsp; 2nd-year Electromagnetism and optics (problem class tutor)</p>
+</div>
 
 
