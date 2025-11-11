@@ -61,13 +61,21 @@ I worked at a Graduate Teaching Assistant for the following undergraduate course
 2021 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astriphysics (lab demonstrator)
 
 I also assissted/co-supervised the following MSc project students with Prof. Ian Bonnell:    
-2023 Spring &emsp; Florence Harper (now as Robin Harper)    
-2024 Spring &emsp; Pavani Kumar     
+2024 Spring &emsp; Pavani Kumar   
+2024 Spring &emsp; Jesus Miguel Yulo Asuncion    
 2024 Spring &emsp; Daniel Maske    
-2024 Spring &emsp; Jesus Miguel Yulo Asuncion 
+2023 Spring &emsp; Florence Harper (now as Robin Harper) 
 
 #### University of York 
-
+I worked at a Graduate Teaching Assistant for the following undergraduate courses:
+2020 Spring &emsp; 2nd-year Mathematics (tutor)    
+2020 Spring &emsp; 1st-year Python lab (lab demonstrator)    
+2020 Spring &emsp; 1st-year Vibrations and waves (tutor)    
+2020 Spring &emsp; 1st-year Electromagnetism (tutor)    
+2020 Spring &emsp; 1st-year Mapping the universe (tutor)    
+2019 Winter &emsp; 2nd-year Python lab for astrophysics students (lab demonstrator)    
+2019 Winter &emsp; 3rd-year Advanced astrophysics laboratory (lab demonstrator)    
+2019 Spring &emsp; 2nd-year Electromagnetism and optics (tutor) 
 
 
 
