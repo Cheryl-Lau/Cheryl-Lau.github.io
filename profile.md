@@ -27,6 +27,15 @@ Supervisors: Dr. Chris Murphy (academic), Dr. Emily Brunsden (FYP)
 Dissertation title: Estimating distances to type I Cepheid variables using the Period-Luminosity relation with visual photometry
 
 
+## Publications 
+
+ORCID: <https://orcid.org/0000-0002-9292-5996>
+
+* **Lau, C. S. C.** & Bonnell, I. A. 2025, "Semi-confined supernova feedback in HII region bubbles", MNRAS, 540, 1124–1143, <https://doi.org/10.1093/mnras/staf756>
+* **Lau, C. S. C.**, Petkova, M. A. & Bonnell, I. A. 2025, "Hybrid radiation hydrodynamics scheme with adaptive gravity-tree-based pseudo-particles", MNRAS, 538, 1461–1480, <https://doi.org/10.1093/mnras/staf366>
+* Dudson, B. D., Allen, J., Body, T., Chapman, B., **Lau, C.**, Townley, L., Moulton, D., Harrison, J. & Lipschultz, B.  2019, "The role of particle, energy and momentum losses in 1-D simulations of divertor detachment", Plasma Phys. Control. Fusion, 61, 6, <https://doi.org/10.1088/1361-6587/ab1321>
+
+
 ## Grants & Awards 
 
 <style>
