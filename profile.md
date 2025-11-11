@@ -27,15 +27,14 @@ Supervisors: Dr. Chris Murphy (academic), Dr. Emily Brunsden (FYP)
 Dissertation title: Estimating distances to type I Cepheid variables using the Period-Luminosity relation with visual photometry
 
 
+## Grants & Awards 
+
 <style>
 .negative-indent {
     margin-left: 50px;
     text-indent: -50px;
 }
 </style>
-
-
-## Grants & Awards 
 
 <div class="negative-indent">
   <p>2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</p>
@@ -51,114 +50,121 @@ Dissertation title: Estimating distances to type I Cepheid variables using the P
 </div>
 
 
+## Conference talks
+
 <style>
-.negative-indent {
+.negative-indent-talks {
     margin-left: 90px;
     text-indent: -90px;
 }
 </style>
 
-## Conference talks
-
-<div class="negative-indent">
+<div class="negative-indent-talks">
   <p>2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-talks">
   <p>2025 June &emsp; Phantom workshop 2025, Grenoble (Invited)</p>
 </div>
-<div class="negative-indent">
-  <p>2025 May &emsp; Bally Fest, Hunagry (Contributed)</p>
+<div class="negative-indent-talks">
+  <p>2025 May &nbsp; &emsp; Bally Fest, Hunagry (Contributed)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-talks">
   <p>2024 Sep &nbsp; &emsp; UK galactic star formation, Armagh (Contributed)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-talks">
   <p>2024 Sep &nbsp; &emsp; German Astronomical Society meeting 2024, Cologne (Contributed x2)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-talks">
   <p>2024 June &emsp; Research visit to the Theoretical Astrophysics Cologne group, Cologne (Invited)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-talks">
   <p>2024 June &emsp; SPHERIC 2024, Berlin (Contributed)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-talks">
   <p>2024 Feb &nbsp; &emsp; ECOGAL winter school, Les Houches (Contributed)</p>
 </div>
-<div class="negative-indent">
-  <p>2023 Mar &emsp; Phantom workshop 2024, Online (Contributed)</p>
+<div class="negative-indent-talks">
+  <p>2023 Mar &nbsp; &emsp; Phantom workshop 2024, Online (Contributed)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-talks">
   <p>2019 July &nbsp; &emsp; NAM 2019, Lancaster (Contributed poster)</p>
 </div>
 
 
 ## Teaching 
 
+<style>
+.negative-indent-teaching {
+    margin-left: 100px;
+    text-indent: -100px;
+}
+</style>
+
 #### At University of St Andrews 
 I worked at a Graduate Teaching Assistant for the following undergraduate courses:  
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2025 Spring &nbsp; &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2024 Winter &emsp; AS1001 1st-year Astronomy and Astriphysics (tutor)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2024 Spring &nbsp; &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2023 Winter &emsp; AS1001 1st-year Astronomy and Astrophysics (tutor)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2023 Spring &nbsp; &emsp; AS3013 3rd-year Computational astrophysics (lab demonstrator)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2022 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2022 Spring &nbsp; &emsp; AS2001 2nd-year Astronomy and Astriphysics (lab demonstrator)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2021 Winter &emsp; AS1001 & AS1101 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
 </div>
 
 I also assissted/co-supervised the following MSc project students with Prof. Ian Bonnell:
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2024 Spring &emsp; Pavani Kumar</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2024 Spring &emsp; Jesus Miguel Yulo Asuncion</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2024 Spring &emsp; Daniel Maske</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2023 Spring &emsp; Florence Harper (now as Robin Harper)</p>
 </div>
 
 #### At University of York 
 I worked at a Graduate Teaching Assistant for the following undergraduate courses:
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2020 Spring &emsp; 2nd-year Mathematics (problem class tutor)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2020 Spring &emsp; 1st-year Python lab (lab demonstrator)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2020 Spring &emsp; 1st-year Vibrations and waves (problem class tutor)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2020 Spring &emsp; 1st-year Electromagnetism (problem class tutor)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2020 Spring &emsp; 1st-year Mapping the universe (problem class tutor)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2019 Winter &emsp; 2nd-year Python lab for astrophysics students (lab demonstrator)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2019 Winter &emsp; 3rd-year Advanced astrophysics laboratory (lab demonstrator)</p>
 </div>
-<div class="negative-indent">
+<div class="negative-indent-teaching">
   <p>2019 Spring &emsp; 2nd-year Electromagnetism and optics (problem class tutor)</p>
 </div>
 
