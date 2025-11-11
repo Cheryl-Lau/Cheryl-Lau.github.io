@@ -25,4 +25,4 @@ My name in full is Cheryl Si Ching Lau, known as Cheryl Lau. Name in Chinese is 
 * "Si Ching" (思晴) are two Chinese characters that join together as a name. No, it's not "Si Lau".      
 * It is conventional in Hong Kong to keep the two words separate, so not "Si-Ching" or "Siching".     
 * Both "Cheryl" and "Si Ching" are first names. The latter is not a middle name.     
-* Both English and Chinese names were given at birth. I did not name myself, in case you wonder.    
+* Both my English and Chinese names were given at birth. I did not name myself, in case you wonder.    
