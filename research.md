@@ -12,7 +12,7 @@ permalink: /research
 A binary pair at the bottom of the cluster's potential. 
 
 <div style="text-align: center;">
-   <img src="images/binaryincluster.gif" alt="Binary in cluster" width="400" height="400" class="center" style="margin-left: 50px; margin-right: 50px; margin-top: 0px, margin-bottom: 0px;">
+   <img src="images/binaryincluster.gif" alt="Binary in cluster" width="350" height="350" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
 </div>
 
 Blah. 
