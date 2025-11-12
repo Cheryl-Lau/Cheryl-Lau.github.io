@@ -13,8 +13,7 @@ My research revolves around three things: the cold gaseous environments in which
    <img src="images/hiiregion.gif" alt="HII region" width="330" height="330" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
 </div>
 
-In fact, star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of planetary discs are all interconnected to each other. I'm mostly concerned about the intermediate - the parsec scales, that is, the Giant Molecular Clouds (GMCs). Clouds typically lie along the spiral arms of galaxies. Within them, the turbulent gas collapses under its own gravity to become dense sheets and filaments. Once the density reaches a certain threshold, and provided that the gas is sufficiently cold, stars and stellar clusters begin to form. At this stage, the stellar masses follow a lognormal distribution, but with a power-law tail. This tail in the distribution indicates the rare presence of Massive Stars (> 10 $M_\odot$). Massive stars are important for their energy and momentum contribution to our Universe. 
-
+Star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of planetary discs are all interconnected to each other. I'm mostly concerned about the intermediate - the parsec scales, that is, the Giant Molecular Clouds (GMCs). Clouds typically lie along the spiral arms of galaxies. Within them, turbulent gas collapses under its own gravity to become dense sheets and filaments. Once the density reaches a certain threshold, provided that the gas is sufficiently cold, stars and stellar clusters begin to form. At this stage, the stellar masses obeys a lognormal distribution, but with a power-law tail. This tail indicates the rare presence of Massive Stars (> 10 M<p>&#10752;</p> $`M_\odot`$). The massive stars are crucial sources of energy and momentum in the galaxies. 
 
 
 ### Binary accretion in clusters 
