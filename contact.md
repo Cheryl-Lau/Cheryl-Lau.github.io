@@ -7,9 +7,9 @@ permalink: /contact
 
 The best way to reach me is via email. I typically reply within a few hours. 
 
-St Andrews email: cscl1@st-andrews.ac.uk
+St Andrews email: &emsp; cscl1@st-andrews.ac.uk
 
-Personal email: lausiching@gmail.com
+Personal email: &ensp; &emsp; lausiching@gmail.com
 
 Please feel free to email me about my work, conferences, talks, tutorial materials, or even about the latest Frieren episode. 
 
