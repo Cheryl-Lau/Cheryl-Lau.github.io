@@ -39,6 +39,6 @@ Blah.
 </div>
 
 <div style="text-align: center;">
-   <img src="images/tree_layers.jpg" alt="Tree" width="267" height="330" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
+   <img src="images/tree_layers.jpg" alt="Tree" width="194" height="240" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
 </div>
 
