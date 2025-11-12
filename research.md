@@ -15,7 +15,7 @@ My research revolves around three things: the gaseous environments where stars a
 
 In fact, star formation is a multi-scale problem, going from the galactic scales down to the scales of accretion discs. I'm concerned about the intermediate - the Giant Molecular Clouds. They lie along the galactic spiral arms. Turbulent cloud gas collapses under self-gravity to become dense sheets and filaments. When the clumps become sufficiently cold, stars and clusters may begin to form. 
 
-At this stage, the stellar masses generally obey a lognormal distribution, but with a distinct power-law tail. This tail indicates the rare presence of Massive Stars. However, their feedback dominates the energy budget in our Galaxy. Ionizing radiation, stellar winds and Type II supernovae are all examples of it. Without feedback, stars would form extremely quickly and die out within a very short time. 
+The initial stellar masses generally obey a lognormal distribution, but with a distinct power-law tail. This tail indicates the rare presence of Massive Stars. Despite their small numbers, their feedback dominates the energy budget in our Galaxy. Ionizing radiation, stellar winds and Type II supernovae are all examples of it. Without feedback, stars would form extremely quickly and die out within a very short time. 
 
 But how much of those feedback energy *actually* went into sustaining the star-forming regions? Besides, how do we get the massive stars? Does feedback help or hinder their formation? These are the kinds of questions to be solved. 
 
