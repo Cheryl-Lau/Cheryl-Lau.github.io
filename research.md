@@ -7,13 +7,19 @@ permalink: /research
 
 ## Stars, Clouds, and Feedback 
 
-My research revolves around three things: the cold gaseous environments in which stars are born, the stars, and the energy released from them as they evolve. This energy, known as stellar feedback, in turn shapes the physical properties of the stars' birthplace. Feedback plays a fundamental role in regulating the entire star formation process. 
+My research revolves around three things: the cold gaseous environments in which stars are born, the stars, and the energy released from them as they evolve. This energy, known as stellar feedback, in turn shapes the physical properties of the stars' birthplace. Feedback plays a crucial role in regulating the entire star formation process. 
 
 <div style="text-align: center;">
    <img src="images/hiiregion.gif" alt="HII region" width="330" height="330" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
 </div>
 
-Star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of planetary discs are all interconnected to each other. I'm mostly concerned about the intermediate - the parsec scales, that is, the Giant Molecular Clouds (GMCs). Clouds typically lie along the spiral arms of galaxies. Within them, turbulent gas collapses under its own gravity to become dense sheets and filaments. Once the density reaches a certain threshold, provided that the gas is sufficiently cold, stars and stellar clusters begin to form. At this stage, the stellar masses obeys a lognormal distribution, but with a power-law tail. This tail indicates the rare presence of Massive Stars (> 10 M<p>&#10752;</p> $`M_\odot`$). The massive stars are crucial sources of energy and momentum in the galaxies. 
+Star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of planetary discs are all interconnected to each other. I'm mostly concerned about the intermediate - the parsec scales, that is, the Giant Molecular Clouds (GMCs). Clouds typically lie along the spiral arms of galaxies. Within them, turbulent gas collapses under its own gravity to become dense sheets and filaments. Once the density reaches a certain threshold, provided that the gas is sufficiently cold, stars and stellar clusters begin to form. 
+
+At this stage, the stellar masses generally obey a lognormal distribution, but with a distinct power-law tail. This tail indicates the rare presence of Massive Stars (> 10 M<p><small>&#10752;</small></p>). But despite the fact that they are rare, the feedback from massive stars dominates the energy and momentum budget in our Galaxy. Ionizing radiation, stellar winds and supernovae are examples of it. Without feedback, stars could form extremely quickly and die out in a much shorter time than is observed. 
+
+But how much of those feedback energy *actually* went into supporting the star-forming regions? In fact, how do we get these massive stars? Does feedback help or hinder their formation process? These are the kind of questions to be solved. 
+
+I work on different topics simultaneously ~~or I'll soon become bored~~. Scroll down to see more! 
 
 
 ### Binary accretion in clusters 
