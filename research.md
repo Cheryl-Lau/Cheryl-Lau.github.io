@@ -7,13 +7,13 @@ permalink: /research
 
 ## Stars, Clouds, and Feedback 
 
-My research revolves around three things: the gaseous environments in which stars are born, the stars, and the energy released as they evolve. This energy, known as stellar feedback, in turn shapes the stars' birthplace. Feedback plays a crucial role in regulating the star formation process. 
+My research revolves around three things: the gaseous environments where stars are born, the stars, and the energy released as they evolve. This energy, known as stellar feedback, in turn shapes the stars' birthplace. Feedback is of fundamental importance in star formation.  
 
 <div style="text-align: center;">
    <img src="images/hiiregion.gif" alt="HII region" width="330" height="330" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
 </div>
 
-In fact, star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of planetary discs are all interconnected. I'm concerned about the intermediate - the Giant Molecular Clouds. They typically lie along the galactic spiral arms. Turbulent cloud gas collapses under self-gravity to become dense sheets and filaments. Provided that the clumps are sufficiently cold, stars and stellar clusters may begin to form. 
+In fact, star formation is a multi-scale problem, going from the galactic scales down to the scales of accretion discs. I'm concerned about the intermediate - the Giant Molecular Clouds. They lie along the galactic spiral arms. Turbulent cloud gas collapses under self-gravity to become dense sheets and filaments. When the clumps become sufficiently cold, stars and clusters may begin to form. 
 
 At this stage, the stellar masses generally obey a lognormal distribution, but with a distinct power-law tail. This tail indicates the rare presence of Massive Stars. Yet, their feedback dominates the energy budget in our Galaxy. Ionizing radiation, stellar winds and Type II supernovae are all examples of it. Without feedback, stars would form extremely quickly and die out within a very short time. 
 
