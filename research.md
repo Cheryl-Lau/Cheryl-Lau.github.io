@@ -9,15 +9,14 @@ permalink: /research
 
 My research revolves around three things: the gaseous environments where stars are born, the stars, and the energy released as they evolve. This energy, known as stellar feedback, in turn shapes the stars' birthplace. 
 
-<div style="text-align: center;">
-   <img src="images/urender_20_10.gif" alt="Feedback in GMC" width="330" height="330" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
-</div>
+<img align="left" src="images/urender_20_10.gif" alt="Feedback in GMC" width="275" height="275" style="margin-left: 5px; margin-right: 20px; margin-top: 0px, margin-bottom: 25px;" />
+
 
 In fact, star formation is a multi-scale problem, going from the galactic scales down to the scales of accretion discs. I'm concerned about the intermediate - the Giant Molecular Clouds. They lie along the galactic spiral arms. Turbulent cloud gas collapses under self-gravity to become dense sheets and filaments. When the clumps become sufficiently cold, stars and clusters may begin to form. 
 
 The initial stellar masses generally obey a lognormal distribution, but with a distinct power-law tail. This tail indicates the rare presence of Massive Stars. Despite their small numbers, their feedback dominates the energy budget in our Galaxy. Ionizing radiation, stellar winds and Type II supernovae are all examples of it. Without feedback, stars would form extremely quickly and die out within a very short time. 
 
-But how much of those feedback energy *actually* went into sustaining the star-forming regions? Besides, how do we get the massive stars? Does feedback help or hinder their formation? These are the kinds of questions to be solved. 
+**But how much of those feedback energy *actually* went into sustaining the star-forming regions? Besides, how do we get the massive stars? Does feedback help or hinder their formation?** These are the kinds of questions to be solved. 
 
 I work on different projects simultaneously ~~or I'll soon become bored~~. Scroll down to see more! 
 
