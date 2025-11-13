@@ -43,14 +43,18 @@ Thus, when the progenitor star dies, if the GMC gas is yet to be dispersed (eith
 
 Let's look at this example simulation. If we try injecting supernova into a GMC where early photoionization feedback is present, we see that the explosion energy is escaping like blobs running away in preferential directions. The explosion is *not* spherically symmetrical. There are even slight time delays between the shocks! 
 
-We probably need a model to describe this partial confinement behaviour in the supernova energy release. Why? It's particularly important for galaxy simulations, where sub-grid feedback recipes are crucial. 
+We probably need a new model to describe this partial confinement behaviour in the supernova energy release. Why? It's particularly important for galaxy simulations, where sub-grid feedback recipes are crucial. 
 
 
 ### A semi-confined Supernova explosion 
 
+If you think about it, this scenario now becomes fairly analogous to a "semi-confined explosion", a modelling problem that has been well-studied in engineering for decades to understand bomb impacts inside buildings. (You might hate engineers but please just read on.) What we could do is to simplify the geometry of this feedback modelling problem, and try putting supernovae into spherical clouds with well-defined channel openings. I called this a "semi-confined supernova" model. It allows for a robust study on the impact of confinement by early-feedback-carved bubbles. 
+
 <div style="text-align: center;">
    <img src="images/sncavity_evol.png" alt="Simplified semi-confined SN" width="330" height="180" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
 </div>
+
+With both [analytical and numerical approaches](https://doi.org/10.1093/mnras/staf756), I showed that a semi-confined supernova, compared to a standard symmetrical one, is more capable of sustaining its local dynamical perturbation. It keeps more of its kinetic energy and momentum *locally*, and can induce a higher level of solenoidal turbulence, which is good for regulating star formation. We therefore argue that the semi-confinement effects are highly important in feedback modelling, and we need a way to somehow incorporate it in our sub-grid models! 
 
 
 ## Tree-based SPH-MCRT coupled Radiation Hydrodynamics 
