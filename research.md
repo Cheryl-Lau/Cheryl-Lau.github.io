@@ -48,7 +48,7 @@ We probably need a new model to describe this partial confinement behaviour in t
 
 ### A semi-confined Supernova explosion 
 
-If you think about it, this scenario now becomes fairly analogous to a "semi-confined explosion", a modelling problem that has been well-studied in engineering for decades to understand bomb impacts inside buildings. (You might hate engineers but please just read on.) What we could do is to simplify the geometry of this feedback modelling problem, and try putting supernovae into spherical clouds with well-defined channel openings. I called this a "semi-confined supernova" model. It allows for a robust study on the impact of confinement by early-feedback-carved bubbles. 
+If you think about it, this scenario now becomes fairly analogous to a "semi-confined explosion", a modelling problem that has been well-studied in engineering for decades to understand bomb impact inside buildings. (You might hate engineers but please just read on.) What we could do is to simplify the geometry of this astrophysical problem, and try put the supernovae into spherical clouds with well-defined channel openings. I called this a "semi-confined supernova" model. It allows for a robust study of the impact of confinement by early-feedback-carved bubbles. 
 
 <div style="text-align: center;">
    <img src="images/sncavity_evol.png" alt="Simplified semi-confined SN" width="330" height="180" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
