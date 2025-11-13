@@ -93,7 +93,10 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2024 Feb &nbsp; &emsp; ECOGAL winter school, Les Houches (Contributed)</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2023 Mar &nbsp; &emsp; Phantom workshop 2024, Online (Contributed)</p>
+  <p>2023 Nov &nbsp; &emsp; 2nd IAA-CSIC Severo Ochoa Advanced School on Star Formation, Granada (Brief presentation)</p>
+</div>
+<div class="negative-indent-talks">
+  <p>2023 Mar &nbsp; &emsp; Phantom workshop 2023, Online (Contributed)</p>
 </div>
 <div class="negative-indent-talks">
   <p>2019 July &nbsp; &emsp; NAM 2019, Lancaster (Contributed poster)</p>
