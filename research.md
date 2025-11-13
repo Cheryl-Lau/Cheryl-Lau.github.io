@@ -31,6 +31,13 @@ However, whether or not the incoming materials can successfully stick onto the s
 
 ## Feedback in Giant Molecular Clouds 
 
+Massive stars inject a lot of energy and momentum into their surroundings throughout their lifetime. Soon after the young massive stars form, they release high-energy photons that ionize the nearby H2 molecules and heat them to approximately 10000 K. Meanwhile, stellar winds launched by radiation pressure may sweep the GMC gas into thin dense shells. 
+
+<img align="right" src="images/feedback_channels.png" alt="Channels in GMC" width="330" height="150" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+
+
+
+
 <div style="text-align: center;">
    <img src="images/rotatingcloud_SN_u.gif" alt="SN in GMC" width="330" height="330" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
 </div>
