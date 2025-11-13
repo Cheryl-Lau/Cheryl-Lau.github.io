@@ -26,7 +26,7 @@ I work on different projects simultaneously ~~or I'll soon become bored~~. Scrol
 
 This is a new project initiated by Ian Bonnell and Jesus (a.k.a. Miguel). The competitive accretion theory (e.g. [Zinnecker 1982](https://doi.org/10.1111/j.1749-6632.1982.tb43399.x), [Bonnell et al. 2001](https://doi.org/10.1046/j.1365-8711.2001.04270.x)) tells us that massive stars tend to form at the central regions of stellar clusters. This is because a cluster's overall gravitational potential can funnel materials towards its centre, allowing the protostars that happened to be sitting there gain advantages in gathering the infalling materials. 
 
-However, whether or not the incoming materials can successfully stick onto the star depends on their relative motions. For example, their angular momenta need to be sufficiently similar. If the central massive star is stationary, that naturally sets a limit to how much mass it can attain. Now, what if the central star is a massive binary pair with internal angular momentum, and is capable of moving around in the cluster via N-body dynamics. Will it become even more massive? This is what we're trying to answer. 
+However, whether or not the incoming materials can successfully stick onto the star depends on their relative motions. For instance, their angular momenta need to be sufficiently similar. If the central massive star is stationary, that sets a limit to how much mass it can attain. Now, what if the central star is a massive binary pair with internal angular momentum, and is capable of travelling around in the cluster via N-body dynamics? Will it become even more massive? This is what we're trying to answer. 
 
 
 ## Feedback in Giant Molecular Clouds 
