@@ -75,7 +75,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2025 June &emsp; Phantom workshop 2025, Grenoble (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2025 May &nbsp; &emsp; Bally Fest, Hunagry (Contributed)</p>
+  <p>2025 May &nbsp; &emsp; Bally Fest, Budapest (Contributed)</p>
 </div>
 <div class="negative-indent-talks">
   <p>2024 Sep &nbsp; &emsp; UK galactic star formation, Armagh (Contributed)</p>
