@@ -31,18 +31,19 @@ However, whether or not the incoming materials can successfully stick onto the s
 
 ## Feedback in Giant Molecular Clouds 
 
-Massive stars inject a lot of energy and momentum into their surroundings throughout their lifetime. Soon after the young massive stars form, they release high-energy photons that ionize the nearby H2 molecules and heat them to approximately 10000 K. Meanwhile, stellar winds launched by radiation pressure may sweep the GMC gas into thin dense shells. 
+Massive stars inject vast amounts of energy and momentum into their surroundings throughout their lifetime. The energy often takes the form of high-energy radiation, that ionizes the nearby H2 molecules and heats them to approximately 10000 K. Meanwhile, stellar winds launched by the radiation pressure can sweep materials into thin dense shells, sculpting voided bubbles in the GMCs. 
 
-<img align="right" src="images/feedback_channels.png" alt="Channels in GMC" width="330" height="150" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+<img align="right" src="images/feedback_channels.png" alt="Channels in GMC" width="330" height="310" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+
+It might sound destructive. However, a notable aspect in the behaviour of feedback is that they tend to pass through the **paths of least resistance** as they escape their natal GMC. This is much like rivers passing through pre-existing valleys and eventually carving the gorges. If we take a slice from the cloud and plot the location of particles impacted by photoionization (i.e. ionized; coloured in purple), we see that their morphologies clearly exhbit cavity- and channel-like structures. 
+
+Thus, when the massive star dies, if the GMC gas is yet to be dispersed (either being too big or is enveloped by warm HI gas), the supernova explosion could be "trapped" in these cavities. Their energies are then swiftly "channelled" out of the GMC, thanks to the early feedback, without significantly impacting the dense star-forming filaments.
+
+<img align="left" src="images/rotatingcloud_SN_u.gif" alt="SN in GMC" width="330" height="330" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+
+Indeed, if we try injecting a supernova into a simulated GMC where early photoionization feedback is present, we see that the explosion energy is escaping like blobs running away in preferential directions. It's *not* spherically symmetrical. There are even slight time delays between the shocks! 
 
 
-
-
-<div style="text-align: center;">
-   <img src="images/rotatingcloud_SN_u.gif" alt="SN in GMC" width="330" height="330" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
-</div>
-
-### Feedback channels 
 
 
 ### A semi-confined Supernova explosion 
