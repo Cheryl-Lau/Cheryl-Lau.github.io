@@ -9,27 +9,24 @@ permalink: /research
 
 My research revolves around three things: the gaseous environments where stars are born, the stars, and the energy released as they evolve. This energy, known as stellar feedback, in turn shapes the stars' birthplace. 
 
-<figure>
-   <img align="right" src="images/urender_20_10.gif" alt="Feedback in GMC" width="330" height="330" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
-   <figcaption>A turbulent GMC plotted in density-weighted internal energy. White dots are the stars.</figcaption>
-</figure>
+<img align="right" src="images/urender_20_10.gif" alt="Feedback in GMC" width="330" height="330" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
 In fact, star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of accretion discs are interconnected. I'm interested in the intermediate scales - the Giant Molecular Clouds. They lie along the galactic spiral arms. Turbulent cloud gas collapses under self-gravity to become dense sheets and filaments. Then, when the clumps become sufficiently cold, stars and clusters may begin to form. 
 
 The initial stellar masses generally obey a lognormal distribution, but with a distinct power-law tail. This tail indicates the rare presence of Massive Stars. Despite their small numbers, their feedback dominates the energy budget in our Galaxy. Ionizing radiation, stellar winds and Type II supernovae are all examples of it. Without feedback, stars would form extremely quickly and die out within a very short time. 
 
-**But how much of those feedback energy *actually* went into sustaining the star-forming regions? Besides, how do we get the massive stars? Does feedback help or hinder their formation?** These are the kinds of questions to be solved. 
+**But how much of those feedback energy *actually* went into sustaining the star-forming regions? How do we get the massive stars? Does feedback help or hinder their formation?** These are the kinds of questions to be solved. 
 
 I work on different projects simultaneously ~~or I'll soon become bored~~. Scroll down to see more! 
 
 
 ## Massive binary accretion in clusters 
 
-A binary pair at the bottom of the cluster's potential. 
+<img align="left" src="images/kingmodel_test2.gif" alt="Binary in cluster" width="330" height="330" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
-<div style="text-align: center;">
-   <img src="images/kingmodel_test2.gif" alt="Binary in cluster" width="330" height="330" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
-</div>
+This is a new project initiated by Ian Bonnell and Jesus (a.k.a. Miguel). The competitive accretion theory (e.g. [Zinnecker 1982](https://doi.org/10.1111/j.1749-6632.1982.tb43399.x), [Bonnell et al. 2001](https://doi.org/10.1046/j.1365-8711.2001.04270.x)) tells us that massive stars tend to form at the central regions of stellar clusters. This is because the cluster's overall gravitational potential can funnel materials towards its centre, allowing the protostars that happened to be sitting there gain advantages in gathering the infalling materials. 
+
+However, whether or not the materials fed in by the incoming streams can successfully stick onto the star depends on their relative motions. For example, the angular momentum needs to be sufficiently similar, otherwise accretion cannot take place. So if the central massive star is stationary, that sets a limit to how much mass it can gain. Now, what if the massive star is in fact a massive binary pair with internal angular momentum, and is capable of moving around in the cluster under N-body dynamics. Will it gain even more mass? This is what we're trying to answer. 
 
 
 ## Feedback in Giant Molecular Clouds 
