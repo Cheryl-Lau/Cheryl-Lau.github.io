@@ -20,6 +20,7 @@ The [initial stellar masses](https://iopscience.iop.org/article/10.1086/376392) 
 I work on different projects simultaneously ~~or I'll soon become bored~~. Scroll down to see more! 
 
 
+<br/>
 ## Massive binary accretion in clusters 
 
 <img align="left" src="images/kingmodel_test2.gif" alt="Binary in cluster" width="330" height="330" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
@@ -29,6 +30,7 @@ We zoom in a little onto the cores of individual clusters. This is a new project
 However, whether or not the incoming materials can successfully stick onto the star depends on their relative motions. For instance, their angular momenta need to be sufficiently similar. If the central massive star is stationary, that sets a limit to how much mass it can attain. Now, what if the central star is a massive binary pair with internal angular momentum, and is capable of travelling around in the cluster via N-body dynamics. Will it become even more massive? This is what we're trying to answer. 
 
 
+<br/>
 ## Feedback in Giant Molecular Clouds 
 
 Massive stars inject vast amounts of energy and momentum into their surroundings throughout their lifetime. The energy often takes the form of high-energy radiation, that ionizes the nearby H2 molecules and heats them to approximately 10000 K. Meanwhile, stellar winds launched by the radiation pressure can sweep materials into thin dense shells, sculpting voided bubbles in the GMCs. 
@@ -57,13 +59,21 @@ If you think about it, this scenario now becomes fairly analogous to a "semi-con
 With both [analytical and numerical approaches](https://doi.org/10.1093/mnras/staf756), I showed that a semi-confined supernova, compared to a standard symmetrical one, is more capable of sustaining its local dynamical perturbation. It keeps more of its kinetic energy and momentum *locally*, and can induce a higher level of solenoidal turbulence, which is good for regulating star formation. We therefore argue that the semi-confinement effects are highly important in feedback modelling, and we need a way to somehow incorporate it in our sub-grid models! 
 
 
+<br/>
 ## Tree-based SPH-MCRT coupled Radiation Hydrodynamics 
 
-<div style="text-align: center;">
-   <img src="images/rhd_scheme_flow_full.png" alt="RHD code" width="330" height="165" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
-</div>
+Simulation code development is one of my favourite activities. This project was a continuation of Maya's PhD work, who developed a radiation hydrodynamics (RHD) scheme by coupling [Phantom SPH](https://phantomsph.github.io/) to a grid-based Monte Carlo radiative transfer (MCRT) code [CMacIonize](https://github.com/bwvdnbro/CMacIonize) for modelling photoionization. The way it works is to pass the particle properties from SPH over to the MCRT code at each timestep, and run a Monte Carlo simulation by propagating photon packets on the given density field. Once that's completed, the MCRT code computes the steady-state ionic fraction in each grid cell. This information is then returned to the SPH code for heating the particles, and the simulation continues. 
 
-<div style="text-align: center;">
-   <img src="images/tree_layers.jpg" alt="Tree" width="194" height="240" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
-</div>
+Because the scheme involves transferring fluid densities between SPH particles and Voronoi grid cells, Maya developed the ~~insane~~ [Exact mapping](https://www.sciencedirect.com/science/article/abs/pii/S0021999117307775) method, with which the SPH kernel can be mathematically integrated over any Voronoi volume. This is an extremely accurate way of translating interpolated densities between Lagrangian and Eulerian descriptions. Only expensive, we need a way to speed it up a little. 
+
+<img align="left" src="images/tree_layers.png" alt="Tree layers" width="194" height="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+
+
+
+
+<img align="left" src="images/rhd_scheme_flow_full.png" alt="RHD code" width="330" height="165" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+
+
+
+
 
