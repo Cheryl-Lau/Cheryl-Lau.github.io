@@ -66,7 +66,7 @@ Simulation code building is another favourite activity of mine. This project was
 
 Because the scheme involves transferring fluid densities between SPH particles and Voronoi grid cells, Maya developed the ~~insane~~ [Exact mapping](https://www.sciencedirect.com/science/article/abs/pii/S0021999117307775) method, with which the SPH kernel can be mathematically integrated over the volume of any Voronoi cell. This is an extremely accurate way of mapping interpolated densities between Lagrangian and Eulerian descriptions, only expensive. We need a way to speed it up a little. 
 
-<img align="left" src="images/tree_layers.png" alt="Tree layers" width="194" height="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+<img align="left" src="images/tree_layers.jpg" alt="Tree layers" width="194" height="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
 One way to do this is by optimizing the number of particles passed between Phantom and CMI. We only need the ionized regions to be at high resolution, whereas the neutral parts are unimportant as far as mapping is concerned. Like [TreeCol](https://doi.org/10.1111/j.1365-2966.2011.20087.x) or [TreeRay](https://doi.org/10.1093/mnras/sty015), we decided to use the gravity tree. Ionized regions near the stellar sources shall be on particle-level. For the rest, we turn tree nodes into pseudo-particles using adaptive tree-walks, and pass them to CMI instead. Think of it as temporarily tweaking the fluid resolutions, like AMR. 
 
