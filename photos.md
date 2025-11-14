@@ -10,12 +10,18 @@ permalink: /photos
 
 <img align="left" src="images/conf_photos/bucketing1.jpg" alt="bucketing1" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/bucketing3.jpg" alt="bucketing3" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
-<hr>
+
 #### June 2025 SPHERIC 2025, Barcelona
+
+img {
+
+display: block;
+
+}
 
 <img align="left" src="images/conf_photos/spheric_ruben_daniel.jpg" alt="spheric_ruben_daniel" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/spheric_daniel.jpg" alt="spheric_daniel" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
-<hr>
+
 #### June 2025 Phantom workshop, Grenoble
 
 <img align="left" src="images/conf_photos/phantom25_cablecar1.jpg" alt="phantom25_cablecar1" width="230" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/phantom25_cablecar2.jpg" alt="phantom25_cablecar2" width="230" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
