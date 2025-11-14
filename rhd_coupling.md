@@ -3,7 +3,7 @@
 
 ## Instructions on how to couple Phantom to CMacIonize
 
-Disclaimer: This method has been tested on three machines (one local machines and two HPCs), but there is no guarantee.  
+Disclaimer: This method was found with Bert's help and has been tested on three machines (one PC and two HPCs), but there is no guarantee. 
 
 The following instructions assume you use gfortran. 
 
@@ -108,7 +108,6 @@ make; make setup
 ``` 
 
 
-</br>
 Best of luck and happy trouble-shooting. 
 
 
