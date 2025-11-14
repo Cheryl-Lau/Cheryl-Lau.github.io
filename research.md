@@ -72,7 +72,7 @@ One way to do this is by optimizing the number of particles passed between Phant
 
 <img align="right" src="images/rhd_scheme_flow_full.png" alt="RHD code" width="330" height="165" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
-Photoionization heating and implicit radiative cooling have also been implemented in this RHD scheme. The whole thing now consists of 5 physics modules, and is in my own Phantom fork. The self-invented algorithms are documented in this (paper)[https://doi.org/10.1093/mnras/staf366]. With the tree, we can achieve up to 100 times speed up. 
+Photoionization heating and implicit radiative cooling have also been implemented in this RHD scheme. The whole thing now consists of 5 physics modules, and is in my own Phantom fork. The self-invented algorithms are documented in this [paper](https://doi.org/10.1093/mnras/staf366). With the tree, we can achieve up to 100 times speed up. 
 
 
 
