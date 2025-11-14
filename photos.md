@@ -15,7 +15,7 @@ permalink: /photos
 
 img {
 
-display: block;
+display: block; <img align="left" src="images/conf_photos/spheric_ruben_daniel.jpg" alt="spheric_ruben_daniel" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/spheric_daniel.jpg" alt="spheric_daniel" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
 }
 
