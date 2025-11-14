@@ -17,7 +17,7 @@ The [initial stellar masses](https://iopscience.iop.org/article/10.1086/376392) 
 
 **But how much of those feedback energy *actually* went into sustaining the star-forming regions? How do we get the massive stars? Does feedback help or hinder their formation?** These are the kinds of questions to be solved. 
 
-I work on different projects simultaneously ~~or I'll soon become bored~~. Scroll down to see more! 
+I worked on a few different projects. Scroll down to see more! 
 
 
 <br/>
