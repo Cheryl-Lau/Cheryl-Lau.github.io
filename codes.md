@@ -33,7 +33,7 @@ The SPH code I mainly use is [Phantom](https://phantomsph.github.io/), developed
 
 The grid-based Monte Carlo radiative transfer (MCRT) code adopted in our [RHD scheme](https://doi.org/10.1093/mnras/stab2178) is [CMacIonize](https://bwvdnbro.github.io/CMacIonize/about/), developed by [Bert Vandenbroucke and collaborators](https://doi.org/10.1016/j.ascom.2018.02.005). I work with my [fork repository](https://github.com/Cheryl-Lau/CMacIonize) though only the mapping routines have been modified. 
 
-Intructions on how to couple Phantom to CMacIonize can be found [here](rhd_coupling.md). 
+Instructions on how to couple Phantom to CMacIonize can be found [here](rhd_coupling.md). 
 
 
 <br/>
