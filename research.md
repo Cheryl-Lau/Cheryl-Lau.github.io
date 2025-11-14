@@ -70,11 +70,9 @@ Because the scheme involves transferring fluid densities between SPH particles a
 
 One way to do this is by optimizing the number of particles passed between Phantom and CMI. We only need the ionized regions to be at high resolution, whereas the neutral parts are unimportant as far as mapping is concerned. Like [TreeCol](https://doi.org/10.1111/j.1365-2966.2011.20087.x) or [TreeRay](https://doi.org/10.1093/mnras/sty015), we decided to use the gravity tree. Ionized regions near the stellar sources shall be on particle-level. For the rest, we turn tree nodes into pseudo-particles using adaptive tree-walks, and pass them to CMI instead. Think of it as temporarily tweaking the fluid resolutions, like AMR. 
 
-<div style="text-align: center;">
-   <img src="images/rhd_scheme_flow_full.png" alt="RHD code" width="330" height="165" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px;">
-</div>
+<img align="right" src="images/rhd_scheme_flow_full.png" alt="RHD code" width="330" height="165" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
-Photoionization heating and implicit radiative cooling have been implemented in this RHD scheme. The whole thing now consists of 5 physics modules, and is in my own Phantom fork. The self-invented algorithms are documented in this (paper)[https://doi.org/10.1093/mnras/staf366]. With the tree, we can achieve up to 100 times speed up. 
+Photoionization heating and implicit radiative cooling have also been implemented in this RHD scheme. The whole thing now consists of 5 physics modules, and is in my own Phantom fork. The self-invented algorithms are documented in this (paper)[https://doi.org/10.1093/mnras/staf366]. With the tree, we can achieve up to 100 times speed up. 
 
 
 
