@@ -1,5 +1,5 @@
 
-[< BACK](code.md)
+[< BACK](codes.md)
 
 ## Instructions on how to couple Phantom to CMacIonize
 
@@ -10,8 +10,11 @@ The following instructions assume you use gfortran.
 #### Step 1: Deal with the HDF5 
 
 Check if HDF5 has already been installed. If not, download it from source by running this on the command line:
-`wget https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.12/hdf5-1.12.2/src/hdf5-1.12.2.tar.gz` (or any other latest version)
-`gzip -cd hdf5-1.12.2.tar.gz | tar xvf -`
+```
+wget https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.12/hdf5-1.12.2/src/hdf5-1.12.2.tar.gz 
+gzip -cd hdf5-1.12.2.tar.gz | tar xvf -
+```
+(or replace 1.12.2 with any other latest version of HDF5).
 
 Then, go to the top directory of your HDF5 and run:
 `./configure --enable-fortran --enable-cxx`
