@@ -26,7 +26,7 @@ make install
 
 #### Step 2: Go to your .bashrc 
 
-Put in the following lines, if it's not already there: 
+Put in the following lines, if it is not already there: 
 ```
 # Phantom
 export SYSTEM=gfortran
@@ -78,7 +78,7 @@ endif
 Then, down below, add the following. Copy the ld flags listed in cmi_fortran_libs.txt to here: 
 ``` 
 ifeq ($(CMACIONIZE), yes)
-    LDFLAGS+= <whatever written in cmi_fortran_libs.txt>
+    LDFLAGS+= <whatever is written in cmi_fortran_libs.txt>
 endif
 ``` 
 For example, it could look like
@@ -91,7 +91,7 @@ endif
 Somewhere further down below, add the following. Copy the f flags listed in cmi_fortran_includes.txt to here: 
 ``` 
 photoionize_cmi.o: photoionize_cmi.F90
-	$(FC) -c $(FFLAGS) <whatever written in cmi_fortran_includes.txt> $< -o $@
+	$(FC) -c $(FFLAGS) <whatever is written in cmi_fortran_includes.txt> $< -o $@
 ``` 
 For example, 
 ``` 
