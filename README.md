@@ -5,7 +5,7 @@
 
 # Cheryl S. C. Lau
 
-<img align="left" src="images/me.jpeg" alt="myself" width="275" height="275" style="margin-left: 5px; margin-right: 20px; margin-top: 0px, margin-bottom: 25px; max-width:100%; height:auto;" />
+<img align="left" src="images/me.jpeg" alt="myself" width="375" height="375" style="margin-left: 5px; margin-right: 20px; margin-top: 0px, margin-bottom: 25px; max-width:100%; height:auto;" />
 
 
 Greetings! I am a theoretical/computational astrophysicist and I recently completed my PhD at the University of St Andrews with Prof. Ian Bonnell, specialising in modelling stellar feedback in molecular clouds. My work primarily involves performing SPH simulations of star-forming environments. 
