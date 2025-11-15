@@ -3,7 +3,7 @@ permalink: /photos
 ---
 [HOME](README.md) &emsp; [PROFILE](profile.md) &emsp; [RESEARCH](research.md) &emsp; [CODES](codes.md) &emsp; [PHOTOS](photos.md) &emsp; [CONTACT](contact.md)
 
-## Photo album
+## Photo gallery
 
 #### July 2025 PhD viva bucketing 
 
@@ -17,7 +17,7 @@ permalink: /photos
 
 
 <BR CLEAR=ALL />
-#### June 2025 Phantom workshop, Grenoble
+#### June 2025 Phantom workshop, Grenoble
 
 <img align="left" src="images/conf_photos/phantom25_cablecar1.jpg" alt="phantom25_cablecar1" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/phantom25_cablecar2.jpg" alt="phantom25_cablecar2" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
@@ -27,13 +27,13 @@ permalink: /photos
 
 
 <BR CLEAR=ALL />
-#### May 2025 Bally Fest, Budapest
+#### May 2025 Bally Fest, Budapest
 
 <img align="left" src="images/conf_photos/Maya_Hans.jpg" alt="Maya Hans" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/Zixuan_Mattia_Maya.jpg" alt="Zixuan_Mattia_Maya" width="300" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/Hans.jpg" alt="Hans" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/Maya_auntie.jpg" alt="Maya_auntie" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
 
 <BR CLEAR=ALL />
-#### Sep 2024 UK galactic star formation, Armagh
+#### Sep 2024 UK galactic star formation, Armagh
 
 <img align="left" src="images/conf_photos/armagh_rojita_rebecca.jpg" alt="armagh_rojita_rebecca" width="180" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/Khang_Masato.jpg" alt="Khang_Masato" width="230" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/armagh.jpg" alt="Armagh" width="210" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
