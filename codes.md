@@ -5,13 +5,13 @@ permalink: /codes
 
 ## Simulation codes 
 
-All simulation codes I used in my work are publicly available in [my github](https://github.com/Cheryl-Lau) `https://github.com/Cheryl-Lau`.
+All simulation codes I used in my work are publicly available in [my github](https://github.com/Cheryl-Lau).
 
 
 <br/>
 ### Phantom SPH (fork) 
 
-The SPH code I mainly use is [Phantom](https://phantomsph.github.io/), developed by [Daniel Price and collaborators](https://doi.org/10.1017/pasa.2018.25). Documentations can be found [here](https://phantomsph.readthedocs.io/en/latest/). I work with my own [fork repository](https://github.com/Cheryl-Lau/phantom). Several new physics modules have been implemented in there for my research. Major ones include: 
+The SPH code I mainly use is [Phantom](https://phantomsph.github.io/), developed by [Daniel Price and collaborators](https://doi.org/10.1017/pasa.2018.25). Documentations can be found [here](https://phantomsph.readthedocs.io/en/latest/). I work with my own [fork repository](https://github.com/Cheryl-Lau/phantom). Several new physics modules have been implemented for my research. Major ones include: 
 
 **For the SPH-MCRT RHD scheme -**
 * photoionize_cmi.F90
@@ -39,14 +39,14 @@ Instructions on how to couple Phantom to CMacIonize can be found [here](rhd_coup
 <br/>
 ### NbodyAcc 
 
-[NbodyAcc](https://github.com/Cheryl-Lau/nbodyacc) is a recently-developed simple N-body code, dedicated for understanding massive binary accretion in clusters. Individual point masses can be treated as binaries; we track their accretion radii, internal angular momenta and separations. The code employs a 4th-order Runge-Kutta integrator, with King models for cluster potentials and incorporates turbulence. Code structure is similar to Phantom. 
+[NbodyAcc](https://github.com/Cheryl-Lau/nbodyacc) is a recently-developed simple N-body code, dedicated for modelling massive binary accretion in clusters. Individual point masses can be treated as binaries; we track their accretion radii, internal angular momenta and separations. The code employs a 4th-order Runge-Kutta integrator, with King models for cluster potentials and incorporates turbulence. Code structure is similar to Phantom. 
 
 
 <br/>
 ### SPHNG 
 
 SPHNG is the precursor of Phantom. It was developed by Willy Benz, then passed to Ian Bonnell, then to Matthew Bate. 
-I keep a copy of SPHNG from James Wurster and individual modules from Ian Bonnell. This code has not (yet) been used in my work but it was occationally used as a reference. 
+I keep a copy of SPHNG from James Wurster and individual modules from Ian Bonnell. This code is yet to be adopted in my work but it was occationally used as a reference. 
 
 
 
