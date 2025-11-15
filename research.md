@@ -12,7 +12,7 @@ My research revolves around three things: the gaseous environments where stars a
 
 <img align="right" src="images/urender_20_10.gif" alt="Feedback in GMC" width="330" height="330" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px; max-width:60%; height:auto;" />
 
-Star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of accretion discs are interconnected. I'm interested in the intermediate scales - the [Giant Molecular Clouds](https://ui.adsabs.harvard.edu/abs/2023ASPC..534....1C/abstract). They lie along the galactic spiral arms. Turbulent cloud gas collapses under self-gravity to become dense sheets and filaments. Then, when the clumps become sufficiently cold, stars and clusters may begin to form. 
+Star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of accretion discs are inter-connected. I'm interested in the intermediate scales - the [Giant Molecular Clouds](https://ui.adsabs.harvard.edu/abs/2023ASPC..534....1C/abstract). They lie along the galactic spiral arms. Turbulent cloud gas collapses under self-gravity to become dense sheets and filaments. Then, when the clumps become sufficiently cold, stars and clusters may begin to form. 
 
 The [initial stellar masses](https://iopscience.iop.org/article/10.1086/376392) generally obey a lognormal distribution, but with a distinct power-law tail. This tail indicates the rare presence of Massive Stars. Despite their small numbers, their feedback dominates the energy budget in our Galaxy. Ionizing radiation, stellar winds and Type II supernovae are all examples of it. Without feedback, stars would form extremely quickly and die out within a very short time. 
 
@@ -40,7 +40,7 @@ Massive stars inject vast amounts of energy and momentum into their surroundings
 
 It might sound destructive. But in reality, a notable aspect in the behaviour of feedback is that they tend to pass through the **paths of least resistance** as they escape their natal GMC. This is much like rivers passing through pre-existing valleys and eventually carving the gorges. If we take a slice from the cloud and plot the location of particles impacted by photoionization (i.e. ionized; coloured in purple), we see that their morphologies clearly exhbit [cavity- and channel-like structures](https://doi.org/10.1093/mnras/staa451). 
 
-Thus, when the progenitor star dies, if the GMC gas is yet to be dispersed (either being too big or is enveloped by warm HI gas), its supernova explosion could be "trapped" in these cavities. Their energies are then swiftly "channelled" out of the GMC, thanks to the early feedback, without significantly impacting the dense star-forming filaments.
+Thus, when the progenitor star dies, if the GMC gas is yet to be dispersed (being too big or is enveloped by warm HI gas), its supernova explosion could be "trapped" in these cavities. Their energies are then swiftly "channelled" out of the GMC, thanks to the early feedback, without significantly impacting the dense star-forming filaments.
 
 Let's look at the example simulation below. If we try injecting supernova into a GMC where early photoionization feedback is present, we see that the explosion energy is escaping like blobs running away in bipolar directions. **The explosion is *not* spherically symmetrical.** There are even slight time delays between the shocks! 
 
@@ -48,7 +48,7 @@ Let's look at the example simulation below. If we try injecting supernova into a
    <img src="images/rotatingcloud_SN_u.gif" alt="SN in GMC" width="400" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px; max-width:95%; height:auto;">
 </div>
 
-We probably need a new model to describe this partial confinement behaviour in the supernova energy release. Why? It's particularly important for galaxy simulations, where sub-grid feedback recipes are crucial. 
+We probably need a new model to describe this partial confinement behaviour in the supernova energy release. Why? Because it's particularly important for galaxy simulations, where sub-grid feedback recipes are crucial. 
 
 
 ### A semi-confined Supernova explosion 
@@ -73,11 +73,10 @@ This RHD scheme involves transferring fluid densities between SPH particles and 
 
 One way to do this is by optimizing the number of particles passed between Phantom and CMI. We only need the ionized regions to be at high resolution, whereas the neutral parts are unimportant as far as mapping is concerned. Like [TreeCol](https://doi.org/10.1111/j.1365-2966.2011.20087.x) or [TreeRay](https://doi.org/10.1093/mnras/sty015), we decided to use the gravity tree. Ionized regions near the stellar sources shall be on particle-level. For the rest, we turn tree nodes into pseudo-particles using adaptive tree-walks, and pass them to CMI instead. Think of it as temporarily lowering the fluid resolutions, just like AMR. 
 
+Photoionization heating and implicit radiative cooling have also been implemented. The whole RHD computation now consists of 5 physics modules, and is maintained in my own Phantom fork. The self-invented algorithms are documented in this [paper](https://doi.org/10.1093/mnras/staf366); they are generalisable to other SPH codes. With a tree, we can achieve up to 100 times speed up. 
+
 <div style="text-align: center;">
    <img src="images/rhd_scheme_flow_full.png" alt="RHD code" width="500" class="center" style="margin-left: 0px; margin-right: 0px; margin-top: 0px, margin-bottom: 0px; max-width:95%; height:auto;">
 </div>
-
-Photoionization heating and implicit radiative cooling have also been implemented. The whole RHD computation now consists of 5 physics modules, and is maintained in my own Phantom fork. The self-invented algorithms are documented in this [paper](https://doi.org/10.1093/mnras/staf366). With a tree, we can achieve up to 100 times speed up. 
-
 
 
