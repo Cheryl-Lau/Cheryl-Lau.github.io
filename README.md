@@ -11,5 +11,5 @@ Greetings! I'm a theoretical/ computational astrophysicist and I recently comple
 Previously I obtained my MSc by Research degree at the University of York under the supervision of Dr. Emily Brunsden, where I worked on asteroseismology. 
 I also completed my BSc degree at the University of York, because I loved ~~their mallards~~ their physics department.
 
-I am a Hongkonger but I spent more time living in the UK since 2015. Obsession with cats is usually what I am known for. Drawing is my hobby and I'm a big fan of Japanese anime. As an indoor-cat-person, sports are not my thing; the photo above shows a rare sighting of me standing in sunlight. 
+I am a Hongkonger but I spent more time living in the UK since 2015. Obsession with cats is usually what I am known for. Drawing is my hobby and I'm a big fan of Japanese anime. As an indoor-cat-person, sports are not my thing. The photo above shows a rare sighting of me standing in sunlight. 
 
