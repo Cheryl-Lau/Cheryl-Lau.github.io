@@ -13,7 +13,7 @@ Thesis title: The Shocking Stars - Numerical modelling of stellar feedback in Gi
 [Publicly available at the St Andrews thesis repository](https://research-repository.st-andrews.ac.uk/handle/10023/32588)       
 Examiners: Prof. Matthew Bate (external), Prof. Moira Jardine (internal) 
 
-#### 2018-2021 MSc by Research in astrophysics
+#### 2018-2020 MSc by Research in astrophysics
 <span style="color:grey">Department of Physics, University of York, England, UK</span>     
 Supervisor: Dr. Emily Brunsden     
 Thesis title: Stellar rotation formalisms of γ Doradus stars from gravity-mode period spacings      
