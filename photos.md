@@ -7,7 +7,7 @@ permalink: /photos
 
 #### Dec 2025 University of St Andrews graduation 
 
-<img align="left" src="images/conf_photos/grad_photo.jpg" alt="grad_photo" width="180" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />  <img align="left" src="images/conf_photos/ian.jpg" alt="grad_ian" width="220" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/physicists.jpg" alt="physicists 2025" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/ceremony.jpeg" alt="ceremony" width="260" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
+<img align="left" src="images/conf_photos/grad_photo.jpg" alt="grad_photo" width="180" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />  <img align="left" src="images/conf_photos/ian.jpg" alt="grad_ian" width="220" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/physicists.jpg" alt="physicists 2025" width="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/ceremony.jpeg" alt="ceremony" width="275" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
 
 <BR CLEAR=ALL />
