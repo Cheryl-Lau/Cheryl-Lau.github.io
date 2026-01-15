@@ -7,7 +7,7 @@ permalink: /contact
 
 The best way to reach me is via email. I typically reply within a few hours. 
 
-NCTS email: &emsp; cheryl.lau@phys.ncts.ntu.edu.tw
+Taiwan NCTS email: &emsp; cheryl.lau@phys.ncts.ntu.edu.tw
 
 St Andrews email: &emsp; cscl1@st-andrews.ac.uk
 
