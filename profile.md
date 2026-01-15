@@ -6,8 +6,8 @@ permalink: /profile
 
 ## Employment
 
-#### 2026 - Now Postdoctoral Research Associate in theoretical astrophysics 
-<span style="color:grey">National Center for Theoretical Sciences (Physics Division), Taiwan</span>  
+#### 2026- Postdoctoral Research Associate in theoretical astrophysics 
+<span style="color:grey">National Center for Theoretical Sciences (NCTS) Physics Division, National Taiwan University, Taipei, TW</span>  
 Research group: Theoretical and Computational Astrophysics (TCA) Thematic Group 
 
 
