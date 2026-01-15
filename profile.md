@@ -4,6 +4,13 @@ permalink: /profile
 
 [HOME](README.md) &emsp; [PROFILE](profile.md) &emsp; [RESEARCH](research.md) &emsp; [CODES](codes.md) &emsp; [PHOTOS](photos.md) &emsp; [CONTACT](contact.md)
 
+## Employment
+
+#### 2026 - Now Postdoctoral Research Associate in theoretical astrophysics 
+<span style="color:grey">National Center for Theoretical Sciences (Physics Division), Taiwan</span>  
+Research group: Theoretical and Computational Astrophysics (TCA) Thematic Group 
+
+
 ## Education
 
 #### 2021-2025 PhD in computational astrophysics 
