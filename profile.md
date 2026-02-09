@@ -6,7 +6,7 @@ permalink: /profile
 
 ## Employment
 
-#### 2026- Postdoctoral research fellow in theoretical astrophysics 
+#### 2026- Postdoctoral Research Fellow in theoretical astrophysics 
 <span style="color:grey">National Center for Theoretical Sciences (Physics Division), National Taiwan University, Taipei, TW</span>       
 Research group: Theoretical and Computational Astrophysics (TCA) Thematic Group (TG2.3)          
 Research expertise: Star formation and stellar feedback, interstellar medium, computational hydrodynamics       
