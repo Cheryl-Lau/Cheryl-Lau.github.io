@@ -116,7 +116,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </style>
 
 <div class="negative-indent-talks">
-  <p>2026 Mar &nbsp; &emsp; NTNU Department of Earth Sciences Colloquium (<b>Invited</b>)</p>
+  <p>2026 Mar &nbsp; &emsp; NTNU Department of Earth Sciences Colloquium, Taipei (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
   <p>2024 June &emsp; Research visit to the Theoretical Astrophysics Cologne group, Cologne (<b>Invited</b>)</p>
