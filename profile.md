@@ -93,9 +93,6 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2024 Sep &nbsp; &emsp; German Astronomical Society meeting 2024, Cologne (Contributed x2)</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2024 June &emsp; Research visit to the Theoretical Astrophysics Cologne group, Cologne (<b>Invited</b>)</p>
-</div>
-<div class="negative-indent-talks">
   <p>2024 June &emsp; SPHERIC 2024, Berlin (Contributed)</p>
 </div>
 <div class="negative-indent-talks">
@@ -106,6 +103,23 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </div>
 <div class="negative-indent-talks">
   <p>2019 July &nbsp; &emsp; NAM 2019, Lancaster (Contributed poster)</p>
+</div>
+
+
+##  Institutional talks
+
+<style>
+.negative-indent-talks {
+    margin-left: 90px;
+    text-indent: -90px;
+}
+</style>
+
+<div class="negative-indent-talks">
+  <p>2026 Mar &nbsp; &emsp; NTNU Department of Earth Sciences Colloquium (<b>Invited</b>)</p>
+</div>
+<div class="negative-indent-talks">
+  <p>2024 June &emsp; Research visit to the Theoretical Astrophysics Cologne group, Cologne (<b>Invited</b>)</p>
 </div>
 
 
