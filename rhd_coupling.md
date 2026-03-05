@@ -151,6 +151,9 @@ Go to your own repo's `phantom/src/main` and open the following files:
 2. `deriv.F90`
 3. `force.F90`
 4. `step_leapfrog.F90`
+5. `dtype_kdtree.F90`
+6. `kdtree.F90`
+7. `readwrite_infile.F90`
 
 Open the same files in my phantom repo. You will find extra blocks of codes that are enclosed in `#ifdef PHOTOION`. A simple 'ctrl+F PHOTOION' will do the job. Please copy all of these into your own Phantom repo at their respective locations in the code. 
 
