@@ -84,7 +84,7 @@ Create a new setup that looks like this:
 ```
 ifeq ($(SETUP), cmi)
 #	Coupling Phantom to CMacIonize for adding ionizing radiation
-    SETUPFILE=velfield_fromcubes.f90 setup_sphere_evolvedmc.f90
+    SETUPFILE=<your sim's setup file>.f90
     FPPFLAGS= -DPHOTOION
     SRCPHOTOION=utils_cmi.f90 kdtree_cmi.f90 hnode_cmi.f90 heating_cooling_cmi.f90 photoionize_cmi.F90
     CMACIONIZE=yes
@@ -137,17 +137,29 @@ photoionize_cmi.o: photoionize_cmi.F90
 
 ##### Step 4.5: Download all the photoionization-relevant codes  
 
-Checkout the following files from my phantom repo: 
+Please checkout the following new modules from my phantom repo: 
 1. `photoionize_cmi.F90`
 2. `kdtree_cmi.f90`
 3. `hnode_cmi.f90`
 4. `heating_cooling_cmi.f90`
 5. `utils_cmi.f90`  
 
+Here goes the tricky bit. We now modify the 'guts' of the code to link it to the photoionization mods. 
+
+Go to your own repo's `phantom/src/main` and open the following files: 
+1. `initial.F90`
+2. `deriv.F90`
+3. `force.F90`
+4. `step_leapfrog.F90`
+
+Open the same files in my phantom repo. You will find extra blocks of codes that are enclosed in `#ifdef PHOTOION`. A simple 'ctrl+F PHOTOION' will do the job. Please copy all of these into your own Phantom repo at their respective locations in the code. 
+
+Since Phantom updates quite often, I cannot guarantee that these codes will work in all future versions. You will likely have to figure out how to let your own Phantom incorporate the photoionizatino modules should they fail to compile/run. I'd be very happy to help, of course! 
+
 
 #### Step 5: Compile everything 
 
-Create a new work directory somewhere outside of the phantom repo. `cd` to your new repo and write a local Makefile for the new setup that you created in step 4.1. 
+Create a new work directory somewhere outside of the phantom repo. Go to your new directory and write a local Makefile for the new setup that you created in step 4.1. 
 ```
 ~/phantom/scripts/writemake.sh cmi > Makefile
 ```
