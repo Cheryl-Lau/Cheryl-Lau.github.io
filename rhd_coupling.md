@@ -105,7 +105,7 @@ ifeq ($(CMACIONIZE), yes)
     LDFLAGS+= -L/$(CMI_DIR)/build/lib -lCMIFortranLibrary -lCMILibrary -lLegacyEngine -lSharedEngine $(HDF5ROOT)/lib/libhdf5.so /usr/lib64/libz.so /usr/lib64/libdl.a /usr/lib64/libm.so /software/MPI/openmpi-5.0.5/lib/libmpi.so -lstdc++ -lc
 endif
 ```
-Important note! The specific compilation flags are machine-dependent. If you're running the code on different machines, you will have to create an extra block for each machine you use. For example, I have the following for St Andrews' HPC cluster Hypatia: 
+Important note! The specific compilation flags listed in `cmi_fortran_libs.txt` are machine-dependent. If you're running the code on different machines, you will have to repeat step 3 and create an extra block for each machine you use. For example, I have the following for St Andrews' HPC cluster Hypatia: 
 ```
 ifeq ($(CMACIONIZE_HYPATIA), yes)
     LDFLAGS+= -L/$(CMI_DIR)/build/lib -lCMIFortranLibrary -lCMILibrary -lLegacyEngine -lSharedEngine $(HDF5ROOT)/lib/libhdf5.so /usr/lib64/libz.so /usr/lib64/libdl.a /usr/lib64/libm.so /software/MPI/openmpi-5.0.5/lib/libmpi.so -lstdc++ -lc
