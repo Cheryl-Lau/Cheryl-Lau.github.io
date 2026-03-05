@@ -5,8 +5,19 @@
 
 Disclaimer: This method was found with Bert's help and has been tested on three machines (one PC and two HPCs), but there is no guarantee. 
 
-The following instructions assume you use gfortran. 
+The following instructions assume you use gfortran on a linux machine. 
 
+
+#### Step 0: Download Phantom and CMacIonize 
+
+Create a fork repo of Phantom and CMacIonize from 
+`https://github.com/danieljprice/phantom` and `https://github.com/bwvdnbro/CMacIonize`.
+
+Clone the fork into your computer by running the following commands: 
+```
+git clone https://github.com/<your git username>/phantom.git
+git clone https://github.com/<your git username>/CMacIonize.git
+```
 
 #### Step 1: Deal with the HDF5 
 
@@ -47,6 +58,7 @@ module load openmpi/5.0.5
 module load gcclibs/11.4.1
 module load ucx/1.16.0
 ```
+Don't forget to `source .bashrc`. 
 
 #### Step 3: Go to CMacIonize top directory
 
@@ -62,9 +74,13 @@ Before running `make`, check that it has found HDF5 and the fortran compiler.
 Now you should see that, inside `CMacIonize/build/compilation`, it has generated two files, named `cmi_fortran_includes.txt` and `cmi_fortran_libs.txt`. 
 
 
-#### Step 4: Go to Phantom 
+#### Step 4: Deal with the Phantom Makefile 
 
-Open the Makefile and create a new setup that looks like this: 
+Open the Makefile in `phantom/build`.
+
+##### Step 4.1: Add in new setup 
+
+Create a new setup that looks like this: 
 ```
 ifeq ($(SETUP), cmi)
 #	Coupling Phantom to CMacIonize for adding ionizing radiation
@@ -73,9 +89,11 @@ ifeq ($(SETUP), cmi)
     SRCPHOTOION=utils_cmi.f90 kdtree_cmi.f90 hnode_cmi.f90 heating_cooling_cmi.f90 photoionize_cmi.F90
     CMACIONIZE=yes
 endif
-``` 
+```
 
-Then, down below, add the following. Copy the ld flags listed in cmi_fortran_libs.txt to here: 
+##### Step 4.2: Add in LD flags 
+
+Underneath the `ifeq ($(MCFOST), yes)` block, add the following. Copy the ld flags listed in `cmi_fortran_libs.txt` to here: 
 ``` 
 ifeq ($(CMACIONIZE), yes)
     LDFLAGS+= <whatever is written in cmi_fortran_libs.txt>
@@ -87,8 +105,26 @@ ifeq ($(CMACIONIZE), yes)
     LDFLAGS+= -L/$(CMI_DIR)/build/lib -lCMIFortranLibrary -lCMILibrary -lLegacyEngine -lSharedEngine $(HDF5ROOT)/lib/libhdf5.so /usr/lib64/libz.so /usr/lib64/libdl.a /usr/lib64/libm.so /software/MPI/openmpi-5.0.5/lib/libmpi.so -lstdc++ -lc
 endif
 ```
+Important note! The specific compilation flags are machine-dependent. If you're running the code on different machines, you will have to create an extra block for each machine you use. For example, I have the following for St Andrews' HPC cluster Hypatia: 
+```
+ifeq ($(CMACIONIZE_HYPATIA), yes)
+    LDFLAGS+= -L/$(CMI_DIR)/build/lib -lCMIFortranLibrary -lCMILibrary -lLegacyEngine -lSharedEngine $(HDF5ROOT)/lib/libhdf5.so /usr/lib64/libz.so /usr/lib64/libdl.a /usr/lib64/libm.so /software/MPI/openmpi-5.0.5/lib/libmpi.so -lstdc++ -lc
+endif
+```
+and in the setup block, I'd now put `CMACIONIZE_HYPATIA=yes` instead of `CMACIONIZE=yes`. 
 
-Somewhere further down below, add the following. Copy the f flags listed in cmi_fortran_includes.txt to here: 
+##### Step 4.3: Add in the source files 
+
+Look for the line `SOURCES= physcon.f90 ${CONFIG} ${SRCKERNEL} io.F90`... in the Makefile. 
+
+Add `${SRCPHOTOION}` into the list of source codes. Compilation order matters! It has to be after `kdtree.F90` and `linklist_kdtree.F90`, but before `force.F90`, `deriv.F90`, `step_leapfrog.F90` and `initial.F90`.
+
+Do the same for `SRCDUMP= `. You could put it after `${SRCPOT} ${SRCPHOTO}`. 
+
+
+##### Step 4.4: Add in the includes 
+
+Underneath the `phantom: checksystem checkparams $(OBJECTS) phantom.o` block, add in the following. Copy the flags listed in `cmi_fortran_includes.txt` to here: 
 ``` 
 photoionize_cmi.o: photoionize_cmi.F90
 	$(FC) -c $(FFLAGS) <whatever is written in cmi_fortran_includes.txt> $< -o $@
@@ -99,10 +135,24 @@ photoionize_cmi.o: photoionize_cmi.F90
 	$(FC) -c $(FFLAGS) -fopenmp -I$(CMI_DIR)/build/include $< -o $@
 ``` 
 
+##### Step 4.5: Download all the photoionization-relevant codes  
 
-#### Step 5: Finally, go to your run directory 
+Checkout the following files from my phantom repo: 
+1. `photoionize_cmi.F90`
+2. `kdtree_cmi.f90`
+3. `hnode_cmi.f90`
+4. `heating_cooling_cmi.f90`
+5. `utils_cmi.f90`  
 
-Compile everything.
+
+#### Step 5: Compile everything 
+
+Create a new work directory somewhere outside of the phantom repo. `cd` to your new repo and write a local Makefile for the new setup that you created in step 4.1. 
+```
+~/phantom/scripts/writemake.sh cmi > Makefile
+```
+
+Finally, compile everything. 
 ``` 
 make; make setup
 ``` 
