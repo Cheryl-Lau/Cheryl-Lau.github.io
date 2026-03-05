@@ -135,7 +135,7 @@ photoionize_cmi.o: photoionize_cmi.F90
 	$(FC) -c $(FFLAGS) -fopenmp -I$(CMI_DIR)/build/include $< -o $@
 ``` 
 
-##### Step 4.5: Download all the photoionization-relevant codes  
+#### Step 5: Install the photoionization-relevant source codes 
 
 Please checkout the following new modules from my phantom repo: 
 1. `photoionize_cmi.F90`
@@ -143,6 +143,7 @@ Please checkout the following new modules from my phantom repo:
 3. `hnode_cmi.f90`
 4. `heating_cooling_cmi.f90`
 5. `utils_cmi.f90`  
+Make sure they are in your repo's `phantom/src/main/` directory.
 
 Here goes the tricky bit. We now modify the 'guts' of the code to link it to the photoionization mods. 
 
@@ -160,7 +161,7 @@ Open the same files in my phantom repo. You will find extra blocks of codes that
 Since Phantom updates quite often, I cannot guarantee that these codes will work in all future versions. You will likely have to figure out how to let your own Phantom incorporate the photoionization modules should they fail to compile/run. I'd be very happy to help, of course! 
 
 
-#### Step 5: Compile everything 
+#### Step 6: Compile everything 
 
 Create a new work directory somewhere outside of the phantom repo. Go to your new directory and write a local Makefile for the new setup that you created in step 4.1. 
 ```
