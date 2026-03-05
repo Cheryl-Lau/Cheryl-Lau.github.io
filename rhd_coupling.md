@@ -102,7 +102,7 @@ endif
 For example, it could look like
 ``` 
 ifeq ($(CMACIONIZE), yes)
-    LDFLAGS+= -L/$(CMI_DIR)/build/lib -lCMIFortranLibrary -lCMILibrary -lLegacyEngine -lSharedEngine $(HDF5ROOT)/lib/libhdf5.so /usr/lib64/libz.so /usr/lib64/libdl.a /usr/lib64/libm.so /software/MPI/openmpi-5.0.5/lib/libmpi.so -lstdc++ -lc
+    LDFLAGS+= -L/$(CMI_DIR)/build/lib -lCMIFortranLibrary -lCMILibrary -lLegacyEngine -lSharedEngine $(HDF5ROOT)/lib/libhdf5.so /usr/lib/x86_64-linux-gnu/libz.so /usr/lib/x86_64-linux-gnu/libdl.a /usr/lib/x86_64-linux-gnu/libm.so  -lstdc++ -lc
 endif
 ```
 Important note! The specific compilation flags listed in `cmi_fortran_libs.txt` are machine-dependent. If you're running the code on different machines, you will have to repeat step 3 and create an extra block for each machine you use. For example, I have the following for St Andrews' HPC cluster Hypatia: 
