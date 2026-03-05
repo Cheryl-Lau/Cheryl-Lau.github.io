@@ -154,7 +154,7 @@ Go to your own repo's `phantom/src/main` and open the following files:
 
 Open the same files in my phantom repo. You will find extra blocks of codes that are enclosed in `#ifdef PHOTOION`. A simple 'ctrl+F PHOTOION' will do the job. Please copy all of these into your own Phantom repo at their respective locations in the code. 
 
-Since Phantom updates quite often, I cannot guarantee that these codes will work in all future versions. You will likely have to figure out how to let your own Phantom incorporate the photoionizatino modules should they fail to compile/run. I'd be very happy to help, of course! 
+Since Phantom updates quite often, I cannot guarantee that these codes will work in all future versions. You will likely have to figure out how to let your own Phantom incorporate the photoionization modules should they fail to compile/run. I'd be very happy to help, of course! 
 
 
 #### Step 5: Compile everything 
