@@ -117,9 +117,9 @@ and in the setup block, I'd now put `CMACIONIZE_HYPATIA=yes` instead of `CMACION
 
 Look for the line `SOURCES= physcon.f90 ${CONFIG} ${SRCKERNEL} io.F90`... in the Makefile. 
 
-Add `${SRCPHOTOION}` into the list of source codes. Compilation order matters! It has to be after `kdtree.F90` and `linklist_kdtree.F90`, but before `force.F90`, `deriv.F90`, `step_leapfrog.F90` and `initial.F90`.
+Add `${SRCPHOTOION}` into the list of source codes. Compilation order matters! It has to be after `kdtree.F90` and `linklist_kdtree.F90`, but before `readwrite_infile.F90`, `force.F90`, `deriv.F90`, `step_leapfrog.F90` and `initial.F90`.
 
-Do the same for `SRCDUMP= `. You could put it after `${SRCPOT} ${SRCPHOTO}`. 
+Again, look for `SRCDUMP= physcon.f90 ${CONFIG} ${SRCKERNEL} io.F90`... in the Makefile, and add `${SRCPHOTOION}` into the list. You could put it after `${SRCPOT} ${SRCPHOTO}`. 
 
 
 ##### Step 4.4: Add in the includes 
