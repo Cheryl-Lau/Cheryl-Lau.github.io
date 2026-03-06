@@ -4,6 +4,15 @@ permalink: /profile
 
 [HOME](README.md) &emsp; [PROFILE](profile.md) &emsp; [RESEARCH](research.md) &emsp; [CODES](codes.md) &emsp; [PHOTOS](photos.md) &emsp; [CONTACT](contact.md)
 
+## Employment
+
+#### 2026- Postdoctoral Research Fellow in theoretical astrophysics 
+<span style="color:grey">National Center for Theoretical Sciences (Physics Division), National Taiwan University, Taipei, TW</span>       
+Research group: Theoretical and Computational Astrophysics (TCA) Thematic Group (TG2.3)          
+Research expertise: Star formation and stellar feedback, interstellar medium, computational hydrodynamics       
+Collaborators: Prof. Yueh-Ning Lee, Prof. Min-Kai Lin
+
+
 ## Education
 
 #### 2021-2025 PhD in computational astrophysics 
@@ -84,9 +93,6 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2024 Sep &nbsp; &emsp; German Astronomical Society meeting 2024, Cologne (Contributed x2)</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2024 June &emsp; Research visit to the Theoretical Astrophysics Cologne group, Cologne (<b>Invited</b>)</p>
-</div>
-<div class="negative-indent-talks">
   <p>2024 June &emsp; SPHERIC 2024, Berlin (Contributed)</p>
 </div>
 <div class="negative-indent-talks">
@@ -97,6 +103,26 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </div>
 <div class="negative-indent-talks">
   <p>2019 July &nbsp; &emsp; NAM 2019, Lancaster (Contributed poster)</p>
+</div>
+
+
+##  Institutional talks
+
+<style>
+.negative-indent-talks {
+    margin-left: 90px;
+    text-indent: -90px;
+}
+</style>
+
+<div class="negative-indent-talks">
+  <p>2026 Mar &nbsp; &emsp; NCTS Theoretical Astrophysics in Taiwan workshop 2026, Taipei (<b>Invited</b>)</p>
+</div>
+<div class="negative-indent-talks">
+  <p>2026 Mar &nbsp; &emsp; NTNU Department of Earth Sciences Colloquium, Taipei (<b>Invited</b>)</p>
+</div>
+<div class="negative-indent-talks">
+  <p>2024 June &emsp; Research visit to the Theoretical Astrophysics Cologne group, Cologne (<b>Invited</b>)</p>
 </div>
 
 
