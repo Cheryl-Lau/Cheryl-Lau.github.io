@@ -79,6 +79,9 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </style>
 
 <div class="negative-indent-talks">
+  <p>2026 May &nbsp; &emsp; Olympian Symposium 2026, Katerini (Contributed poster)</p>
+</div>
+<div class="negative-indent-talks">
   <p>2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)</p>
 </div>
 <div class="negative-indent-talks">
@@ -107,7 +110,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </div>
 
 
-##  Institutional talks
+##  Institute talks
 
 <style>
 .negative-indent-talks {
