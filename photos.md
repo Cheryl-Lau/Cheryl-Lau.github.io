@@ -7,7 +7,7 @@ permalink: /photos
 
 #### May 2026 Olympian Symposium, Paralia Katerini
 
-<img align="left" src="images/conf_photos/nthu_kate_david.jpg" alt="nthu_conf_dinner" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/steffi_raghav_shivan.jpg" alt="katerini_beach" width="300" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
+<img align="left" src="images/conf_photos/nthu_kate_david.jpg" alt="nthu_conf_dinner" width="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/steffi_raghav_shivan.jpg" alt="katerini_beach" width="300" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
 <img align="left" src="images/conf_photos/olympsymp_cat.jpg" alt="dion_cat" width="150" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
