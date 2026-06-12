@@ -56,7 +56,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </style>
 
 <div class="negative-indent">
-  <p>2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for research on SPH</p>
+  <p>2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for SPH development</p>
 </div>
 <div class="negative-indent">
   <p>2021 &emsp; UKRI STFC training grant PhD full scholarship</p>
