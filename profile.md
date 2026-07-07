@@ -11,7 +11,7 @@ permalink: /profile
 Research group: Theoretical and Computational Astrophysics (TCA) Thematic Group (TG2.3)   
 Affiliations: [NCTS](https://phys.ncts.ntu.edu.tw/en/people/research_staff/Lau-Cheryl-%E5%8A%89%E6%80%9D%E6%99%B4-81992278), [NTNU](https://www.cag.ntnu.edu.tw/index.php/faculty/postdocs/), [ASIAA](https://www.asiaa.sinica.edu.tw/people/postdoc_c.php)     
 Research expertise: Star formation and stellar feedback, interstellar medium, computational hydrodynamics       
-Collaborators: Prof. Yueh-Ning Lee, Dr. Min-Kai Lin
+Mentors: Prof. Yueh-Ning Lee, Dr. Min-Kai Lin
 
 
 ## Education
@@ -110,7 +110,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </div>
 
 
-##  Institute talks
+##  Institute visits & talks
 
 <style>
 .negative-indent-talks {
@@ -119,6 +119,12 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 }
 </style>
 
+<div class="negative-indent-talks">
+  <p>[Upcoming] 2026 Oct &emsp; National Central University astrophysics colloquium, Taipei (<b>Invited</b>)</p>
+</div>
+<div class="negative-indent-talks">
+  <p>[Upcoming?] 2026 Sep &emsp; Institute of Science Tokyo Department of Earth and Planetary Sciences visit, Tokyo (<b>Invited</b>)</p>
+</div>
 <div class="negative-indent-talks">
   <p>2026 June &emsp; University of Exeter astrophysics seminar, Exeter (<b>Invited</b>)</p>
 </div>
@@ -129,7 +135,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2026 Mar &nbsp; &emsp; NCTS Theoretical Astrophysics in Taiwan workshop 2026, Taipei (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2026 Mar &nbsp; &emsp; NTNU Department of Earth Sciences Colloquium, Taipei (<b>Invited</b>)</p>
+  <p>2026 Mar &nbsp; &emsp; NTNU Department of Earth Sciences colloquium, Taipei (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
   <p>2024 June &emsp; Theoretical Astrophysics group Cologne (TAC) research visit, Cologne (<b>Invited</b>)</p>
@@ -144,6 +150,13 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
     text-indent: -100px;
 }
 </style>
+
+#### At NCTS Taiwan 
+
+I supervise the following summer project students:
+<div class="negative-indent-teaching">
+  <p>2026 Summer &nbsp; Prayash Borthakur</p>
+</div>
 
 #### At University of St Andrews 
 I worked as a Graduate Teaching Assistant for the following undergraduate courses:  
@@ -172,7 +185,7 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
   <p>2021 Winter &emsp; 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
 </div>
 
-I also assissted/co-supervised the following MSc project students with Prof. Ian Bonnell:
+I co-supervised the following MSc project students with Prof. Ian Bonnell:
 <div class="negative-indent-teaching">
   <p>2024 Spring &emsp; Pavani Kumar</p>
 </div>
