@@ -120,10 +120,10 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </style>
 
 <div class="negative-indent-talks">
-  <p>[Upcoming] 2026 Oct &emsp; National Central University astrophysics colloquium, Taipei (<b>Invited</b>)</p>
+  <p>2026 Oct &emsp; National Central University astrophysics colloquium, Taipei (<b>Invited</b>) [Upcoming]</p>
 </div>
 <div class="negative-indent-talks">
-  <p>[Upcoming] 2026 Sep &emsp; Institute of Science Tokyo Department of Earth and Planetary Sciences visit, Tokyo (<b>Invited</b>)</p>
+  <p>2026 Sep &emsp; Institute of Science Tokyo Department of Earth and Planetary Sciences visit, Tokyo (<b>Invited</b>) [Upcoming]</p>
 </div>
 <div class="negative-indent-talks">
   <p>2026 June &emsp; University of Exeter astrophysics seminar, Exeter (<b>Invited</b>)</p>
