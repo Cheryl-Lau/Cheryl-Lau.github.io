@@ -8,10 +8,10 @@ permalink: /profile
 
 #### 2026- Postdoctoral Research Fellow in theoretical astrophysics 
 <span style="color:grey">National Center for Theoretical Sciences (Physics Division), National Taiwan University, Taipei, TW</span>       
-Research group: Theoretical and Computational Astrophysics (TCA) Thematic Group (TG2.3)    
-Research expertise: Star formation and stellar feedback, interstellar medium, computational hydrodynamics    
-Profiles: [NCTS](https://phys.ncts.ntu.edu.tw/en/people/research_staff/Lau-Cheryl-%E5%8A%89%E6%80%9D%E6%99%B4-81992278), [NTNU](https://www.cag.ntnu.edu.tw/index.php/faculty/postdocs/), [ASIAA](https://www.asiaa.sinica.edu.tw/people/postdoc_c.php)    
-Mentors: Prof. Yueh-Ning Lee, Dr. Min-Kai Lin
+Research group: Theoretical and Computational Astrophysics (TCA) Thematic Group (TG2.3)     
+Online profiles: [NCTS](https://phys.ncts.ntu.edu.tw/en/people/research_staff/Lau-Cheryl-%E5%8A%89%E6%80%9D%E6%99%B4-81992278), [NTNU](https://www.cag.ntnu.edu.tw/index.php/faculty/postdocs/), [ASIAA](https://www.asiaa.sinica.edu.tw/people/postdoc_c.php)    
+Research expertise: Star formation and stellar feedback, interstellar medium, computational hydrodynamics     
+Mentors: Prof. Yueh-Ning Lee, Dr. Min-Kai Lin    
 
 
 ## Education
