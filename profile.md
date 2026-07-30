@@ -123,7 +123,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2026 Oct &nbsp; &emsp; National Central University astrophysics colloquium, Taipei (<b>Invited</b>) [Upcoming]</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2026 Sep &nbsp; &emsp; Institute of Science Tokyo Department of Earth and Planetary Sciences visit, Tokyo (<b>Invited</b>) [Upcoming]</p>
+  <p>2026 Sep &nbsp; &emsp; Institute of Science Tokyo Department of Earth and Planetary Sciences seminar, Tokyo (<b>Invited</b>) [Upcoming]</p>
 </div>
 <div class="negative-indent-talks">
   <p>2026 June &emsp; University of Exeter astrophysics seminar, Exeter (<b>Invited</b>)</p>
@@ -138,7 +138,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2026 Mar &nbsp; &emsp; NTNU Department of Earth Sciences colloquium, Taipei (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2024 June &emsp; Theoretical Astrophysics group Cologne (TAC) research visit, Cologne (<b>Invited</b>)</p>
+  <p>2024 June &emsp; Theoretical Astrophysics group Cologne (TAC) seminar, Cologne (<b>Invited</b>)</p>
 </div>
 
 
