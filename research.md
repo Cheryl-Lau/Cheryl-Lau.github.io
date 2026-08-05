@@ -10,7 +10,7 @@ permalink: /research
 
 My research revolves around three things: the gaseous environments where stars are born, the stars, and the energy released as they evolve. This energy, known as stellar feedback, in turn shapes the stars' birthplace. 
 
-<img align="right" src="images/rad_21_10_angle3_urender_compressed.gif" alt="Feedback in GMC" width="260" height="260" style="margin-left: 35px; margin-right: 35px; margin-top: 35px, margin-bottom: 35px; max-width:60%; height:auto;" />
+<img align="right" src="images/rad_21_10_angle3_urender_compressed.gif" alt="Feedback in GMC" width="300" height="300" style="margin-left: 35px; margin-right: 35px; margin-top: 35px, margin-bottom: 35px; max-width:60%; height:auto;" />
 
 Star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of accretion discs are inter-connected. I'm interested in the intermediate scales - the [Giant Molecular Clouds](https://ui.adsabs.harvard.edu/abs/2023ASPC..534....1C/abstract). They lie along the galactic spiral arms. Turbulent cloud gas collapses under self-gravity to become dense sheets and filaments. Then, when the clumps become sufficiently cold, stars and clusters may begin to form. 
 
@@ -24,7 +24,7 @@ I worked on a few different projects. Scroll down to see more!
 <br/>
 ## Massive binary accretion in clusters 
 
-<img align="left" src="images/cluster_rhorender_compressed.gif" alt="Binary in cluster" width="290" height="290" style="margin-left: 35px; margin-right: 35px; margin-top: 35px, margin-bottom: 35px; max-width:60%; height:auto;" />
+<img align="left" src="images/cluster_rhorender_compressed.gif" alt="Binary in cluster" width="300" height="300" style="margin-left: 35px; margin-right: 35px; margin-top: 35px, margin-bottom: 35px; max-width:60%; height:auto;" />
 
 We zoom in a little onto the cores of individual clusters. This is a new project initiated by Ian Bonnell and Jesus (Miguel). The competitive accretion theory (e.g. [Zinnecker 1982](https://doi.org/10.1111/j.1749-6632.1982.tb43399.x), [Bonnell et al. 2001](https://doi.org/10.1046/j.1365-8711.2001.04270.x)) tells us that massive stars tend to form at the central regions of stellar clusters. This is because a cluster's overall gravitational potential can funnel materials towards its centre, allowing the protostars that happened to be sitting there gain advantages in gathering the infalling materials. 
 
