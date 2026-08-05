@@ -10,7 +10,7 @@ permalink: /research
 
 My research revolves around three things: the gaseous environments where stars are born, the stars, and the energy released as they evolve. This energy, known as stellar feedback, in turn shapes the stars' birthplace. 
 
-<img align="right" src="images/rad_21_10_angle3_urender_compressed.gif" alt="Feedback in GMC" width="300" height="300" style="margin-left: 35px; margin-right: 35px; margin-top: 35px, margin-bottom: 35px; max-width:60%; height:auto;" />
+<img align="right" src="images/rad_21_10_angle3_urender_compressed.gif" alt="Feedback in GMC" width="280" height="280" style="margin-left: 35px; margin-right: 35px; margin-top: 35px, margin-bottom: 35px; max-width:60%; height:auto;" />
 
 Star formation is a multi-scale problem. Things going on from the galactic scales down to the scales of accretion discs are inter-connected. I'm interested in the intermediate scales - the [Giant Molecular Clouds](https://ui.adsabs.harvard.edu/abs/2023ASPC..534....1C/abstract). They lie along the galactic spiral arms. Turbulent cloud gas collapses under self-gravity to become dense sheets and filaments. Then, when the clumps become sufficiently cold, stars and clusters may begin to form. 
 
