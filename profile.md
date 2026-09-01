@@ -124,7 +124,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2026 Oct &nbsp; &emsp; ASIoP astrophysics seminar, Taipei (<b>Invited</b>) [Upcoming]</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2026 Oct &nbsp; &emsp; NCU astrophysics colloquium, Taipei (<b>Invited</b>) [Upcoming]</p>
+  <p>2026 Oct &nbsp; &emsp; NCU astrophysics colloquium, Taoyuan (<b>Invited</b>) [Upcoming]</p>
 </div>
 <div class="negative-indent-talks">
   <p>2026 Sep &nbsp; &emsp; Institute of Science Tokyo Department of Earth and Planetary Sciences seminar, Tokyo (<b>Invited</b>) [Upcoming]</p>
