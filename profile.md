@@ -121,7 +121,10 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </style>
 
 <div class="negative-indent-talks">
-  <p>2026 Oct &nbsp; &emsp; National Central University astrophysics colloquium, Taipei (<b>Invited</b>) [Upcoming]</p>
+  <p>2026 Oct &nbsp; &emsp; ASIoP astrophysics seminar, Taipei (<b>Invited</b>) [Upcoming]</p>
+</div>
+<div class="negative-indent-talks">
+  <p>2026 Oct &nbsp; &emsp; NCU astrophysics colloquium, Taipei (<b>Invited</b>) [Upcoming]</p>
 </div>
 <div class="negative-indent-talks">
   <p>2026 Sep &nbsp; &emsp; Institute of Science Tokyo Department of Earth and Planetary Sciences seminar, Tokyo (<b>Invited</b>) [Upcoming]</p>
@@ -154,7 +157,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 
 #### At NCTS Taiwan 
 
-I supervise the following summer project students:
+I supervised the following summer project students:
 <div class="negative-indent-teaching">
   <p>2026 Summer &nbsp; Prayash Borthakur</p>
 </div>
