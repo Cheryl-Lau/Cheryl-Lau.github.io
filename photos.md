@@ -5,6 +5,19 @@ permalink: /photos
 
 ## Photo gallery
 
+#### Sep 2026 Science Tokyo visit 
+
+<img align="left" src="images/conf_photos/sciencetokyo_workshop.jpeg" alt="scitokyo_workshop" width="270" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/sciencetokyo_dinner.jpeg" alt="scitokyo_dinner" width="260" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
+
+<img align="left" src="images/conf_photos/sciencetokyo_lunch.jpeg" alt="scitokyo_lunch" width="260" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
+
+
+<BR CLEAR=ALL />
+#### June 2026 Exeter visit 
+
+<img align="left" src="images/conf_photos/exeter_guys.jpg" alt="exeter_visit" width="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/cloud_hologram.jpg" alt="cloud_hologram" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+
+<BR CLEAR=ALL />
 #### May 2026 Olympian Symposium, Paralia Katerini
 
 <img align="left" src="images/conf_photos/nthu_kate_david.jpg" alt="nthu_conf_dinner" width="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/steffi_raghav_shivan.jpg" alt="katerini_beach" width="300" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
