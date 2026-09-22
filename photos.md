@@ -58,6 +58,8 @@ permalink: /photos
 
 <img align="left" src="images/conf_photos/Maya_Hans.jpg" alt="Maya Hans" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/Zixuan_Mattia_Maya.jpg" alt="Zixuan_Mattia_Maya" width="300" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/Hans.jpg" alt="Hans" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/Maya_auntie.jpg" alt="Maya_auntie" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
+<img align="left" src="images/conf_photos/ballyfest_outdoor_dinnner.jpg" alt="ballyfest_outdoor_dinnner" width="180" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/zixuan_maya_sansith.jpg" alt="zixuan_maya_sansith" width="180" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/sansith.jpg" alt="sansith" width="180" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/maya_sansith_mattia_zixuan.jpg" alt="maya_sansith_mattia_zixuan" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+
 
 <BR CLEAR=ALL />
 #### Sep 2024 UK galactic star formation, Armagh
