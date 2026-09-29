@@ -121,6 +121,12 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </style>
 
 <div class="negative-indent-talks">
+  <p>2027 Jan &nbsp; &emsp; Tohoku University Astronomical Institute visit, Sendai (<b>Invited</b>) [Upcoming]</p>
+</div>
+<div class="negative-indent-talks">
+  <p>2027 Jan &nbsp; &emsp; University of Tokyo Research Center for the Early Universe visit, Tokyo (<b>Invited</b>) [Upcoming]</p>
+</div>
+<div class="negative-indent-talks">
   <p>2026 Oct &nbsp; &emsp; ASIoP astrophysics seminar, Taipei (<b>Invited</b>) [Upcoming]</p>
 </div>
 <div class="negative-indent-talks">
