@@ -66,7 +66,7 @@ permalink: /photos
 <BR CLEAR=ALL />
 #### Sep 2024 UK galactic star formation, Armagh
 
-<img align="left" src="images/conf_photos/armagh_rojita_rebecca.jpg" alt="armagh_rojita_rebecca" width="180" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/Khang_Masato.jpg" alt="Khang_Masato" width="230" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/armagh.jpg" alt="Armagh" width="210" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+<img align="left" src="images/conf_photos/armagh_rojita_rebecca.jpg" alt="armagh_rojita_rebecca" width="180" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/Khang_Masato.jpg" alt="Khang_Masato" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/armagh.jpg" alt="Armagh" width="210" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
 
 <BR CLEAR=ALL />
