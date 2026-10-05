@@ -62,6 +62,8 @@ permalink: /photos
 
 <img align="left" src="images/conf_photos/maya_sansith_mattia_zixuan.jpg" alt="maya_sansith_mattia_zixuan" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/sansith.jpg" alt="sansith" width="220" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
+<img align="left" src="images/conf_photos/ballyfest_dinner_axe.jpg" alt="axe" width="280" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
+
 
 <BR CLEAR=ALL />
 #### Sep 2024 UK galactic star formation, Armagh
