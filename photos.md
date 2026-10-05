@@ -60,9 +60,7 @@ permalink: /photos
 
 <img align="left" src="images/conf_photos/zixuan_maya_sansith.jpg" alt="zixuan_maya_sansith" width="290" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/ballyfest_outdoor_dinnner.jpg" alt="ballyfest_outdoor_dinnner" width="220" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />     
 
-<img align="left" src="images/conf_photos/maya_sansith_mattia_zixuan.jpg" alt="maya_sansith_mattia_zixuan" width="230" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/sansith.jpg" alt="sansith" width="220" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
-
-<img align="left" src="images/conf_photos/ballyfest_dinner_axe.jpg" alt="axe" width="205" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
+<img align="left" src="images/conf_photos/maya_sansith_mattia_zixuan.jpg" alt="maya_sansith_mattia_zixuan" width="220" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/sansith.jpg" alt="sansith" width="180" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/ballyfest_dinner_axe.jpg" alt="axe" width="200" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
 
 <BR CLEAR=ALL />
