@@ -83,6 +83,9 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2026 May &nbsp; &emsp; Olympian Symposium 2026, Katerini (Contributed poster)</p>
 </div>
 <div class="negative-indent-talks">
+  <p>2026 Mar &nbsp; &emsp; NCTS Theoretical Astrophysics in Taiwan workshop 2026, Taipei (<b>Invited</b>)</p>
+</div>
+<div class="negative-indent-talks">
   <p>2025 June &emsp; SPHERIC 2025, Barcelona (Contributed)</p>
 </div>
 <div class="negative-indent-talks">
@@ -140,9 +143,6 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 </div>
 <div class="negative-indent-talks">
   <p>2026 Mar &nbsp; &emsp; ASIAA lunch talk, Taipei (<b>Invited</b>)</p>
-</div>
-<div class="negative-indent-talks">
-  <p>2026 Mar &nbsp; &emsp; NCTS Theoretical Astrophysics in Taiwan workshop 2026, Taipei (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
   <p>2026 Mar &nbsp; &emsp; NTNU Department of Earth Sciences colloquium, Taipei (<b>Invited</b>)</p>
