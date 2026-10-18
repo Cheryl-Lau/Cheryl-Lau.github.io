@@ -5,6 +5,12 @@ permalink: /photos
 
 ## Photo gallery
 
+#### Oct 2026 NCU astronomy colloquium 
+
+<img align="left" src="images/conf_photos/NCU_talk.jpg" alt="scitokyo_workshop" width="260" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;"/> <img align="left" src="images/conf_photos/NCU_students.jpg" alt="scitokyo_workshop" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;"/>
+
+
+<BR CLEAR=ALL />
 #### Sep 2026 Science Tokyo visit 
 
 <img align="left" src="images/conf_photos/sciencetokyo_workshop.jpeg" alt="scitokyo_workshop" width="270" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/sciencetokyo_dinner.jpeg" alt="scitokyo_dinner" width="260" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
@@ -84,10 +90,10 @@ permalink: /photos
 <BR CLEAR=ALL />
 #### Dec 2019 University of York graduation 
 
-<img align="left" src="images/conf_photos/goodwin1.jpg" alt="goodwin1" width="170" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/goodwin2.jpg" alt="goodwin2" width="170" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
+<img align="left" src="images/conf_photos/goodwin1.jpg" alt="goodwin1" width="170" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/goodwin2.jpg" alt="goodwin2" width="160" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/york_grad.jpg" alt="york_grad" width="170" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
 
 <BR CLEAR=ALL />
-#### --------------------------------
+#### -
 
 
