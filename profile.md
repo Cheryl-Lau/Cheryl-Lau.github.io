@@ -133,7 +133,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2026 Oct &nbsp; &emsp; ASIoP astrophysics seminar, Taipei (<b>Invited</b>) [Upcoming]</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2026 Oct &nbsp; &emsp; NCU Graduate Institute of Astronomy colloquium, Taoyuan (<b>Invited</b>) [Upcoming]</p>
+  <p>2026 Oct &nbsp; &emsp; NCU Graduate Institute of Astronomy colloquium, Taoyuan (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
   <p>2026 Sep &nbsp; &emsp; Institute of Science Tokyo Okuzumi Lab seminar, Tokyo (<b>Invited</b>)</p>
@@ -148,7 +148,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
   <p>2026 Mar &nbsp; &emsp; NTNU Department of Earth Sciences colloquium, Taipei (<b>Invited</b>)</p>
 </div>
 <div class="negative-indent-talks">
-  <p>2024 June &emsp; Theoretical Astrophysics group Cologne (TAC) seminar, Cologne (<b>Invited</b>)</p>
+  <p>2024 June &emsp; University of Cologne theoretical astrophysics group (TAC) seminar, Cologne (<b>Invited</b>)</p>
 </div>
 
 
