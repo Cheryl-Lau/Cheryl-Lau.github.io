@@ -29,8 +29,6 @@ permalink: /photos
 
 <img align="left" src="images/conf_photos/nthu_kate_david.jpg" alt="nthu_conf_dinner" width="230" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/steffi_raghav_shivan.jpg" alt="katerini_beach" width="280" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
-<img align="left" src="images/conf_photos/olympsymp_cat.jpg" alt="dion_cat" width="130" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
-
 
 <BR CLEAR=ALL />
 #### Dec 2025 University of St Andrews graduation 
