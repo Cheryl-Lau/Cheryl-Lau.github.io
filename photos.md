@@ -7,13 +7,13 @@ permalink: /photos
 
 #### Oct 2026 NCU astronomy colloquium 
 
-<img align="left" src="images/conf_photos/NCU_talk.jpg" alt="scitokyo_workshop" width="260" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;"/> <img align="left" src="images/conf_photos/NCU_students.jpg" alt="scitokyo_workshop" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;"/>
+<img align="left" src="images/conf_photos/NCU_talk.jpg" alt="scitokyo_workshop" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;"/> <img align="left" src="images/conf_photos/NCU_students.jpg" alt="scitokyo_workshop" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;"/>
 
 
 <BR CLEAR=ALL />
 #### Sep 2026 Science Tokyo visit 
 
-<img align="left" src="images/conf_photos/sciencetokyo_workshop.jpeg" alt="scitokyo_workshop" width="270" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/sciencetokyo_dinner.jpeg" alt="scitokyo_dinner" width="260" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
+<img align="left" src="images/conf_photos/sciencetokyo_workshop.jpeg" alt="scitokyo_workshop" width="270" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/sciencetokyo_dinner.jpeg" alt="scitokyo_dinner" width="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
 <img align="left" src="images/conf_photos/sciencetokyo_lunch.jpeg" alt="scitokyo_lunch" width="260" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
@@ -23,12 +23,13 @@ permalink: /photos
 
 <img align="left" src="images/conf_photos/exeter_guys.jpg" alt="exeter_visit" width="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/cloud_hologram.jpg" alt="cloud_hologram" width="250" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" />
 
+
 <BR CLEAR=ALL />
 #### May 2026 Olympian Symposium, Paralia Katerini
 
-<img align="left" src="images/conf_photos/nthu_kate_david.jpg" alt="nthu_conf_dinner" width="240" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/steffi_raghav_shivan.jpg" alt="katerini_beach" width="300" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
+<img align="left" src="images/conf_photos/nthu_kate_david.jpg" alt="nthu_conf_dinner" width="230" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> <img align="left" src="images/conf_photos/steffi_raghav_shivan.jpg" alt="katerini_beach" width="280" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
-<img align="left" src="images/conf_photos/olympsymp_cat.jpg" alt="dion_cat" width="150" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
+<img align="left" src="images/conf_photos/olympsymp_cat.jpg" alt="dion_cat" width="130" style="margin-left: 5px; margin-right: 5px; margin-top: 5px, margin-bottom: 5px;" /> 
 
 
 <BR CLEAR=ALL />
