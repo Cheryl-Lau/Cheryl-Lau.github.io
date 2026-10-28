@@ -7,14 +7,26 @@ permalink: /contact
 
 The best way to reach me is via email. I typically reply within a few hours. 
 
+<style>
+table, td {
+  border-right:none;
+  border-left:none;
+  border-bottom:none;
+  border-top:none;
+  border-collapse: collapse;
+  text-align: left;
+  padding: 4px
+}
+</style>
+
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:100px">NCTS email</td>
-    <td>cheryl.lau[at]phys.ncts.ntu.edu.tw</td> 
+    <td style="width:150px">NCTS email</td>
+    <td>cheryl.lau@phys.ncts.ntu.edu.tw</td> 
   </tr>
   <tr>
     <td>St Andrews email</td>
-    <td>cscl1[at]st-andrews.ac.uk</td>
+    <td>cscl1@st-andrews.ac.uk</td>
   </tr>
 </table>
 
