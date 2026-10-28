@@ -59,10 +59,13 @@ table, th, td {
 }
 </style>
 
+tr:not(:last-child) td {
+    padding-top: 0.5em;
+}
 
-<table style="width:95%">
+<table style="width:99%">
   <tr>
-    <td style="width:10%">2024</td>
+    <td style="width:7%">2024</td>
     <td>SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for SPH development</td> 
   </tr>
   <tr>
