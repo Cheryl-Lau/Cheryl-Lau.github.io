@@ -6,7 +6,7 @@ permalink: /profile
 
 ## Employment
 
-#### 2026- Postdoctoral research fellow in theoretical astrophysics 
+#### 2026-Present Postdoctoral research fellow in theoretical astrophysics 
 <span style="color:grey">National Center for Theoretical Sciences (Physics Division), National Taiwan University, Taipei, TW</span>       
 Research group: Theoretical and Computational Astrophysics (TCA) Thematic Group (TG2.3)     
 Online profiles: [NCTS](https://phys.ncts.ntu.edu.tw/en/people/research_staff/Lau-Cheryl-%E5%8A%89%E6%80%9D%E6%99%B4-81992278), [NTNU](https://www.cag.ntnu.edu.tw/index.php/faculty/postdocs/), [ASIAA](https://www.asiaa.sinica.edu.tw/people/postdoc_c.php)    
@@ -47,7 +47,6 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 * Dudson, B. D., Allen, J., Body, T., Chapman, B., **Lau, C.**, Townley, L., Moulton, D., Harrison, J. & Lipschultz, B.  2019, "The role of particle, energy and momentum losses in 1-D simulations of divertor detachment", Plasma Phys. Control. Fusion, 61, 6, <https://doi.org/10.1088/1361-6587/ab1321>
 
 
-## Grants & Awards 
 
 <style>
 table, td {
@@ -60,6 +59,9 @@ table, td {
   padding: 4px
 }
 </style>
+
+
+## Grants & Awards 
 
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
@@ -81,7 +83,7 @@ table, td {
 </table>
 
 
-##  Invited colloquiums & seminars
+##  Invited colloquiums, seminars & visits 
 
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
@@ -94,15 +96,15 @@ table, td {
   </tr>
   <tr>
     <td>2026 Oct</td>
-    <td>Academia Sinica Institute of Physics (ASIoP) High Energy Theory Group seminar, Taipei</td>
+    <td>Academia Sinica Institute of Physics (ASIoP) seminar, Taipei</td>
   </tr>
   <tr>
     <td>2026 Oct</td>
-    <td>National Central University (NCU) Graduate Institute of Astronomy colloquium, Taoyuan</td>
+    <td>National Central University (NCU) Institute of Astronomy colloquium, Taoyuan</td>
   </tr>
   <tr>
     <td>2026 Sep</td>
-    <td>Institute of Science Tokyo Department of Earth and Planetary Sciences Okuzumi Lab seminar, Tokyo</td>
+    <td>Institute of Science Tokyo Okuzumi Lab seminar, Tokyo</td>
   </tr>
   <tr>
     <td>2026 June</td>
@@ -118,7 +120,7 @@ table, td {
   </tr>
   <tr>
     <td>2024 June</td>
-    <td>University of Cologne theoretical astrophysics group (TAC) seminar, Cologne</td>
+    <td>University of Cologne Theoretical Astrophysics group (TAC) seminar, Cologne</td>
   </tr>
 </table>
 
@@ -152,7 +154,7 @@ table, td {
   </tr>
 <tr>
     <td>2024 Sep</td>
-    <td>German Astronomical Society meeting 2024, Cologne (Contributed x2) (Contributed)</td>
+    <td>German Astronomical Society meeting 2024, Cologne (Contributed x2)</td>
   </tr>
 <tr>
     <td>2024 June</td>
