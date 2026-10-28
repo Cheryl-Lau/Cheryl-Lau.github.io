@@ -62,20 +62,20 @@ table, th, td {
 
 <table style="width:95%">
   <tr>
-    <th style="width:15%">Firstname</th>
-    <th>Lastname</th> 
+    <td style="width:10%">2024</td>
+    <td>SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for SPH development</td> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>2021</td>
+    <td>UKRI STFC training grant PhD full scholarship</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>2019</td>
+    <td>University of York Departmental scholarship for MSc studies</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
+    <td>2018</td>
+    <td>University of York 1st-place Goodwin Prize for best final-year project</td>
   </tr>
 </table>
 
