@@ -56,6 +56,8 @@ table, td {
   border-bottom:none;
   border-top:none;
   border-collapse: collapse;
+  text-align: left;
+  line-height: 0px;
 }
 </style>
 
