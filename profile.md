@@ -2,7 +2,7 @@
 permalink: /profile
 ---
 
-[HOME](README.md) &emsp; <p><u>[PROFILE](profile.md)</u></p> &emsp; [RESEARCH](research.md) &emsp; [CODES](codes.md) &emsp; [PHOTOS](photos.md) &emsp; [CONTACT](contact.md)
+[HOME](README.md) &emsp; [PROFILE](profile.md) &emsp; [RESEARCH](research.md) &emsp; [CODES](codes.md) &emsp; [PHOTOS](photos.md) &emsp; [CONTACT](contact.md)
 
 ## Employment
 
@@ -57,13 +57,13 @@ table, td {
   border-top:none;
   border-collapse: collapse;
   text-align: left;
-  padding: 3px
+  padding: 4px
 }
 </style>
 
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:15%">2024</td>
+    <td style="width:55px">2024</td>
     <td>SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for SPH development</td> 
   </tr>
   <tr>
