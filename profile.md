@@ -262,7 +262,7 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
   </tr>
   <tr>
     <td>2020 Spring</td>
-    <td>1st-year Vibrations and waves (problem class tutor)</td> 
+    <td>1st-year Vibrations and Waves (problem class tutor)</td> 
   </tr>
   <tr>
     <td>2020 Spring</td>
@@ -270,7 +270,7 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
   </tr>
   <tr>
     <td>2020 Spring</td>
-    <td>1st-year Mapping the universe (problem class tutor)</td> 
+    <td>1st-year Mapping the Universe (problem class tutor)</td> 
   </tr>
   <tr>
     <td>2019 Winter</td>
@@ -278,11 +278,11 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
   </tr>
   <tr>
     <td>2019 Winter</td>
-    <td>3rd-year Advanced astrophysics laboratory (lab demonstrator)</td> 
+    <td>3rd-year Advanced Astrophysics Laboratory (lab demonstrator)</td> 
   </tr>
   <tr>
     <td>2019 Spring</td>
-    <td>2nd-year Electromagnetism and optics (problem class tutor)</td> 
+    <td>2nd-year Electromagnetism and Optics (problem class tutor)</td> 
   </tr>
 </table>
 
