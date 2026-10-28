@@ -187,7 +187,7 @@ table, td {
 I supervised the following summer project student:
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:85px">2026 Summer</td>
+    <td style="width:95px">2026 Summer</td>
     <td>Prayash Borthakur</td> 
   </tr>
 </table>
@@ -196,7 +196,7 @@ I supervised the following summer project student:
 I worked as a Graduate Teaching Assistant for the following undergraduate courses:  
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:85px">2025 Spring</td>
+    <td style="width:95px">2025 Spring</td>
     <td>3rd-year Computational astrophysics (lab demonstrator)</td> 
   </tr>
   <tr>
@@ -232,7 +232,7 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
 I co-supervised the following MSc/BSc project students with Prof. Ian Bonnell:
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:85px">2024 Spring</td>
+    <td style="width:95px">2024 Spring</td>
     <td>Pavani Kumar</td> 
   </tr>
   <tr>
@@ -253,7 +253,7 @@ I co-supervised the following MSc/BSc project students with Prof. Ian Bonnell:
 I worked as a Graduate Teaching Assistant for the following undergraduate courses:
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:85px">2020 Spring</td>
+    <td style="width:95px">2020 Spring</td>
     <td>2nd-year Mathematics (problem class tutor)</td> 
   </tr>
   <tr>
