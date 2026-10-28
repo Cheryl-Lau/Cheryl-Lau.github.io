@@ -2,7 +2,7 @@
 permalink: /profile
 ---
 
-[HOME](README.md) &emsp; <b>[PROFILE](profile.md)</b> &emsp; [RESEARCH](research.md) &emsp; [CODES](codes.md) &emsp; [PHOTOS](photos.md) &emsp; [CONTACT](contact.md)
+[HOME](README.md) &emsp; <p><u>[PROFILE](profile.md)</u></p> &emsp; [RESEARCH](research.md) &emsp; [CODES](codes.md) &emsp; [PHOTOS](photos.md) &emsp; [CONTACT](contact.md)
 
 ## Employment
 
@@ -57,6 +57,7 @@ table, td {
   border-top:none;
   border-collapse: collapse;
   text-align: left;
+  padding: 1px
 }
 </style>
 
