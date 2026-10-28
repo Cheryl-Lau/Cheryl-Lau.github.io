@@ -81,38 +81,27 @@ table, td {
 </table>
 
 
-
-
-
-<style>
-.negative-indent {
-    margin-left: 55px;
-    text-indent: -55px;
-}
-</style>
-
-<div class="negative-indent">
-  <p>2024 &emsp; SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for SPH development</p>
-</div>
-<div class="negative-indent">
-  <p>2021 &emsp; UKRI STFC training grant PhD full scholarship</p>
-</div>
-<div class="negative-indent">
-  <p>2019 &emsp; University of York Departmental scholarship for MSc studies</p>
-</div>
-<div class="negative-indent">
-  <p>2018 &emsp; University of York 1st-place Goodwin Prize for best final-year project</p>
-</div>
-
-
 ## Conference talks
 
-<style>
-.negative-indent-talks {
-    margin-left: 90px;
-    text-indent: -90px;
-}
-</style>
+<table cellpadding=0 cellspacing=0 style="width:100%">
+  <tr>
+    <td style="width:75px">2026 May</td>
+    <td>Olympian Symposium 2026, Katerini (Contributed poster)</td> 
+  </tr>
+  <tr>
+    <td>2026 Mar</td>
+    <td>NCTS Theoretical Astrophysics in Taiwan workshop 2026, Taipei (<b>Invited</b>)</td>
+  </tr>
+  <tr>
+    <td>2025 June</td>
+    <td>SPHERIC 2025, Barcelona (Contributed)</td>
+  </tr>
+  <tr>
+    <td>2025 June</td>
+    <td>Phantom workshop 2025, Grenoble (<b>Invited</b>)</td>
+  </tr>
+</table>
+
 
 <div class="negative-indent-talks">
   <p>2026 May &nbsp; &emsp; Olympian Symposium 2026, Katerini (Contributed poster)</p>
