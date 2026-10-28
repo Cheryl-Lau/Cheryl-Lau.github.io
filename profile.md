@@ -95,6 +95,10 @@ table, td {
     <td>University of Tokyo Research Center for the Early Universe visit, Tokyo [Upcoming]</td>
   </tr>
   <tr>
+    <td>2027 Jan</td>
+    <td>National Astronomical Observatory of Japan (NAOJ) visit, Tokyo [Upcoming]</td>
+  </tr>
+  <tr>
     <td>2026 Oct</td>
     <td>Academia Sinica Institute of Physics (ASIoP) seminar, Taipei</td>
   </tr>
