@@ -7,11 +7,16 @@ permalink: /contact
 
 The best way to reach me is via email. I typically reply within a few hours. 
 
-Taiwan NCTS email: &nbsp; &emsp; cheryl.lau@phys.ncts.ntu.edu.tw
-
-St Andrews email: &emsp; &emsp; cscl1@st-andrews.ac.uk
-
-Personal email: &emsp; &emsp; &emsp; lausiching@gmail.com
+<table cellpadding=0 cellspacing=0 style="width:100%">
+  <tr>
+    <td style="width:100px">NCTS email</td>
+    <td>cheryl.lau[at]phys.ncts.ntu.edu.tw</td> 
+  </tr>
+  <tr>
+    <td>St Andrews email</td>
+    <td>cscl1[at]st-andrews.ac.uk</td>
+  </tr>
+</table>
 
 Please feel free to email me about my work, conferences, talks, tutorial materials, or even about the latest Frieren episode. 
 
