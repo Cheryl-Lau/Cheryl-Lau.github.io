@@ -57,13 +57,13 @@ table, td {
   border-top:none;
   border-collapse: collapse;
   text-align: left;
-  padding: 1px
+  padding: 3px
 }
 </style>
 
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:7%">2024</td>
+    <td style="width:15%">2024</td>
     <td>SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for SPH development</td> 
   </tr>
   <tr>
