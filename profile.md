@@ -182,86 +182,107 @@ table, td {
 
 ## Teaching 
 
-<style>
-.negative-indent-teaching {
-    margin-left: 100px;
-    text-indent: -100px;
-}
-</style>
-
 #### At NCTS Taiwan 
 
-I supervised the following summer project students:
-<div class="negative-indent-teaching">
-  <p>2026 Summer &nbsp; Prayash Borthakur</p>
-</div>
+I supervised the following summer project student:
+<table cellpadding=0 cellspacing=0 style="width:100%">
+  <tr>
+    <td style="width:85px">2026 Summer</td>
+    <td>Prayash Borthakur</td> 
+  </tr>
+</table>
 
 #### At University of St Andrews 
 I worked as a Graduate Teaching Assistant for the following undergraduate courses:  
-<div class="negative-indent-teaching">
-  <p>2025 Spring &emsp; 3rd-year Computational astrophysics (lab demonstrator)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2024 Winter &emsp; 1st-year Astronomy and Astrophysics (tutor)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2024 Spring &emsp; 3rd-year Computational astrophysics (lab demonstrator)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2023 Winter &emsp; 1st-year Astronomy and Astrophysics (tutor)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2023 Spring &emsp; 3rd-year Computational astrophysics (lab demonstrator)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2022 Winter &emsp; 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2022 Spring &emsp; 2nd-year Astronomy and Astrophysics (lab demonstrator)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2021 Winter &emsp; 1st-year Astronomy and Astrophysics (lab demonstrator)</p>
-</div>
+<table cellpadding=0 cellspacing=0 style="width:100%">
+  <tr>
+    <td style="width:85px">2025 Spring</td>
+    <td>3rd-year Computational astrophysics (lab demonstrator)</td> 
+  </tr>
+  <tr>
+    <td>2024 Winter</td>
+    <td>1st-year Astronomy and Astrophysics (tutor)</td> 
+  </tr>
+  <tr>
+    <td>2024 Spring</td>
+    <td>3rd-year Computational astrophysics (lab demonstrator)</td> 
+  </tr>
+  <tr>
+    <td>2023 Winter</td>
+    <td>1st-year Astronomy and Astrophysics (tutor)</td> 
+  </tr>
+  <tr>
+    <td>2023 Spring</td>
+    <td>3rd-year Computational astrophysics (lab demonstrator)</td> 
+  </tr>
+  <tr>
+    <td>2022 Winter</td>
+    <td>1st-year Astronomy and Astrophysics (lab demonstrator)</td> 
+  </tr>
+  <tr>
+    <td>2022 Spring</td>
+    <td>2nd-year Astronomy and Astrophysics (lab demonstrator)</td> 
+  </tr>
+  <tr>
+    <td>2021 Winter</td>
+    <td>1st-year Astronomy and Astrophysics (lab demonstrator)</td> 
+  </tr>
+</table>
 
-I co-supervised the following MSc project students with Prof. Ian Bonnell:
-<div class="negative-indent-teaching">
-  <p>2024 Spring &emsp; Pavani Kumar</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2024 Spring &emsp; Jesus Miguel Yulo Asuncion</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2024 Spring &emsp; Daniel Maske</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2023 Spring &emsp; Florence Harper (now as Robin Harper)</p>
-</div>
+I co-supervised the following MSc/BSc project students with Prof. Ian Bonnell:
+<table cellpadding=0 cellspacing=0 style="width:100%">
+  <tr>
+    <td style="width:85px">2024 Spring</td>
+    <td>Pavani Kumar</td> 
+  </tr>
+  <tr>
+    <td>2024 Spring</td>
+    <td>Jesus Miguel Yulo Asuncion</td> 
+  </tr>
+  <tr>
+    <td>2024 Spring</td>
+    <td>Daniel Maske</td> 
+  </tr>
+  <tr>
+    <td>2023 Spring</td>
+    <td>Florence Harper (now as Robin Harper)</td> 
+  </tr>
+</table>
 
 #### At University of York 
 I worked as a Graduate Teaching Assistant for the following undergraduate courses:
-<div class="negative-indent-teaching">
-  <p>2020 Spring &emsp; 2nd-year Mathematics (problem class tutor)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2020 Spring &emsp; 1st-year Python lab (lab demonstrator)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2020 Spring &emsp; 1st-year Vibrations and waves (problem class tutor)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2020 Spring &emsp; 1st-year Electromagnetism (problem class tutor)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2020 Spring &emsp; 1st-year Mapping the universe (problem class tutor)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2019 Winter &emsp; 2nd-year Python lab for astrophysics students (lab demonstrator)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2019 Winter &emsp; 3rd-year Advanced astrophysics laboratory (lab demonstrator)</p>
-</div>
-<div class="negative-indent-teaching">
-  <p>2019 Spring &emsp; 2nd-year Electromagnetism and optics (problem class tutor)</p>
-</div>
-
+<table cellpadding=0 cellspacing=0 style="width:100%">
+  <tr>
+    <td style="width:85px">2020 Spring</td>
+    <td>2nd-year Mathematics (problem class tutor)</td> 
+  </tr>
+  <tr>
+    <td>2020 Spring</td>
+    <td>1st-year Python lab (lab demonstrator)</td> 
+  </tr>
+  <tr>
+    <td>2020 Spring</td>
+    <td>1st-year Vibrations and waves (problem class tutor)</td> 
+  </tr>
+  <tr>
+    <td>2020 Spring</td>
+    <td>1st-year Electromagnetism (problem class tutor)</td> 
+  </tr>
+  <tr>
+    <td>2020 Spring</td>
+    <td>1st-year Mapping the universe (problem class tutor)</td> 
+  </tr>
+  <tr>
+    <td>2019 Winter</td>
+    <td>2nd-year Python lab for astrophysics students (lab demonstrator)</td> 
+  </tr>
+  <tr>
+    <td>2019 Winter</td>
+    <td>3rd-year Advanced astrophysics laboratory (lab demonstrator)</td> 
+  </tr>
+  <tr>
+    <td>2019 Spring</td>
+    <td>2nd-year Electromagnetism and optics (problem class tutor)</td> 
+  </tr>
+</table>
 
