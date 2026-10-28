@@ -50,6 +50,40 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 ## Grants & Awards 
 
 <style>
+table, th, td {
+  border-right:none;
+  border-left:none;
+  border-bottom:none;
+  border-top:none;
+  border-collapse: collapse;
+}
+</style>
+
+
+<table style="width:95%">
+  <tr>
+    <th style="width:15%">Firstname</th>
+    <th>Lastname</th> 
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+  </tr>
+</table>
+
+
+
+
+
+<style>
 .negative-indent {
     margin-left: 55px;
     text-indent: -55px;
