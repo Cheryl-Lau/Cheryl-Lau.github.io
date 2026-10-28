@@ -21,11 +21,11 @@ table, td {
 
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:150px">NCTS email</td>
+    <td style="width:150px">Taiwan NCTS email:</td>
     <td>cheryl.lau@phys.ncts.ntu.edu.tw</td> 
   </tr>
   <tr>
-    <td>St Andrews email</td>
+    <td>St Andrews email:</td>
     <td>cscl1@st-andrews.ac.uk</td>
   </tr>
 </table>
