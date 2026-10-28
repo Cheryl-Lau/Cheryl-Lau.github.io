@@ -50,7 +50,7 @@ ORCID: <https://orcid.org/0000-0002-9292-5996>
 ## Grants & Awards 
 
 <style>
-table, th, td {
+table, td {
   border-right:none;
   border-left:none;
   border-bottom:none;
@@ -59,11 +59,7 @@ table, th, td {
 }
 </style>
 
-tr:not(:last-child) td {
-    padding-top: 0.5em;
-}
-
-<table style="width:99%">
+<table cellpadding=0 cellspacing=0 style="width:99%">
   <tr>
     <td style="width:7%">2024</td>
     <td>SPHERIC 2024 (Berlin) 2nd-place Libersky Prize for SPH development</td> 
