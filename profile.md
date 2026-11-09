@@ -92,7 +92,7 @@ table, td {
   </tr>
   <tr>
     <td>2027 Jan</td>
-    <td>University of Tokyo Research Center for the Early Universe visit, Tokyo, Japan [Upcoming]</td>
+    <td>University of Tokyo Research Center for the Early Universe (RESCEU) visit, Tokyo, Japan [Upcoming]</td>
   </tr>
   <tr>
     <td>2027 Jan</td>
