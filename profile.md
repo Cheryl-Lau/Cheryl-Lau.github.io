@@ -88,43 +88,43 @@ table, td {
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
     <td style="width:75px">2027 Jan</td>
-    <td>Tohoku University Astronomical Institute visit, Sendai [Upcoming]</td> 
+    <td>Tohoku University Astronomical Institute visit, Sendai, Japan [Upcoming]</td> 
   </tr>
   <tr>
     <td>2027 Jan</td>
-    <td>University of Tokyo Research Center for the Early Universe visit, Tokyo [Upcoming]</td>
+    <td>University of Tokyo Research Center for the Early Universe visit, Tokyo, Japan [Upcoming]</td>
   </tr>
   <tr>
     <td>2027 Jan</td>
-    <td>National Astronomical Observatory of Japan (NAOJ) visit, Tokyo [Upcoming]</td>
+    <td>National Astronomical Observatory of Japan (NAOJ) visit, Tokyo, Japan [Upcoming]</td>
   </tr>
   <tr>
     <td>2026 Oct</td>
-    <td>Academia Sinica Institute of Physics (ASIoP) seminar, Taipei</td>
+    <td>Academia Sinica Institute of Physics (ASIoP) seminar, Taipei, Taiwan</td>
   </tr>
   <tr>
     <td>2026 Oct</td>
-    <td>National Central University (NCU) Institute of Astronomy colloquium, Taoyuan</td>
+    <td>National Central University (NCU) Graduate Institute of Astronomy colloquium, Taoyuan, Taiwan</td>
   </tr>
   <tr>
     <td>2026 Sep</td>
-    <td>Institute of Science Tokyo Okuzumi Lab seminar, Tokyo</td>
+    <td>Institute of Science Tokyo Okuzumi Lab seminar, Tokyo, Japan</td>
   </tr>
   <tr>
     <td>2026 June</td>
-    <td>University of Exeter Department of Physics and Astronomy seminar, Exeter</td>
+    <td>University of Exeter Department of Physics and Astronomy seminar, Exeter, UK</td>
   </tr>
   <tr>
     <td>2026 Mar</td>
-    <td>Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) lunch talk, Taipei</td>
+    <td>Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) lunch talk, Taipei, Taiwan</td>
   </tr>
   <tr>
     <td>2026 Mar</td>
-    <td>National Taiwan Normal University (NTNU) Department of Earth Sciences colloquium, Taipei</td>
+    <td>National Taiwan Normal University (NTNU) Department of Earth Sciences colloquium, Taipei, Taiwan</td>
   </tr>
   <tr>
     <td>2024 June</td>
-    <td>University of Cologne Theoretical Astrophysics group (TAC) seminar, Cologne</td>
+    <td>University of Cologne Theoretical Astrophysics group (TAC) seminar, Cologne, Germany</td>
   </tr>
 </table>
 
@@ -134,39 +134,39 @@ table, td {
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
     <td style="width:75px">2026 May</td>
-    <td>Olympian Symposium 2026 - The Evolution of Interstellar Medium across Cosmic Times, Katerini (Contributed poster)</td> 
+    <td>Olympian Symposium 2026 - The Evolution of Interstellar Medium across Cosmic Times, Katerini, Greece (Contributed poster)</td> 
   </tr>
   <tr>
     <td>2026 Mar</td>
-    <td>NCTS Theoretical Astrophysics in Taiwan workshop 2026, Taipei (<b>Invited</b>)</td>
+    <td>NCTS Theoretical Astrophysics in Taiwan workshop 2026, Taipei, Taiwan (<b>Invited</b>)</td>
   </tr>
   <tr>
     <td>2025 June</td>
-    <td> 19th SPHERIC conference 2025, Barcelona (Contributed)</td>
+    <td> 19th SPHERIC conference 2025, Barcelona, Spain (Contributed)</td>
   </tr>
   <tr>
     <td>2025 June</td>
-    <td>7th Phantom workshop 2025, Grenoble (<b>Invited</b>)</td>
+    <td>7th Phantom workshop 2025, Grenoble, France (<b>Invited</b>)</td>
   </tr>
 <tr>
     <td>2025 May</td>
-    <td>Bally Fest - Star Formation, Stellar Feedback, and the Ecology of Galaxies, Budapest (Contributed)</td>
+    <td>Bally Fest - Star Formation, Stellar Feedback, and the Ecology of Galaxies, Budapest, Hungary (Contributed)</td>
   </tr>
 <tr>
     <td>2024 Sep</td>
-    <td>UK galactic star formation, Armagh (Contributed)</td>
+    <td>UK galactic star formation, Armagh, Northern Ireland (Contributed)</td>
   </tr>
 <tr>
     <td>2024 Sep</td>
-    <td>German Astronomical Society meeting 2024, Cologne (Contributed x2)</td>
+    <td>German Astronomical Society meeting 2024, Cologne, Germany (Contributed x2)</td>
   </tr>
 <tr>
     <td>2024 June</td>
-    <td>18th SPHERIC conference 2024, Berlin (Contributed)</td>
+    <td>18th SPHERIC conference 2024, Berlin, Germany (Contributed)</td>
   </tr>
 <tr>
     <td>2024 Feb</td>
-    <td>ECOGAL winter school - The physics of star formation, Les Houches (Contributed)</td>
+    <td>ECOGAL winter school - The physics of star formation, Les Houches, France (Contributed)</td>
   </tr>
 <tr>
     <td>2023 Mar</td>
@@ -174,7 +174,7 @@ table, td {
   </tr>
 <tr>
     <td>2019 July</td>
-    <td>Royal Astronomical Society National Astronomy Meeting (NAM) 2019, Lancaster (Contributed poster)</td>
+    <td>Royal Astronomical Society National Astronomy Meeting (NAM) 2019, Lancaster, UK (Contributed poster)</td>
   </tr>
 </table>
 
