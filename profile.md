@@ -99,6 +99,10 @@ table, td {
     <td>National Astronomical Observatory of Japan (NAOJ) visit, Tokyo, Japan [Upcoming]</td>
   </tr>
   <tr>
+    <td>2026 Dec</td>
+    <td>Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) colloquium, Taipei, Taiwan [Upcoming]</td>
+  </tr>
+  <tr>
     <td>2026 Oct</td>
     <td>Academia Sinica Institute of Physics (ASIoP) seminar, Taipei, Taiwan</td>
   </tr>
