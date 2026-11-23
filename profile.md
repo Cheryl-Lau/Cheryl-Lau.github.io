@@ -200,11 +200,11 @@ I supervised the following summer project student:
 I worked as a Graduate Teaching Assistant for the following undergraduate courses:  
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:95px">2025 Spring</td>
+    <td style="width:100px">2025 Spring</td>
     <td>3rd-year Computational astrophysics (lab demonstrator)</td> 
   </tr>
   <tr>
-    <td>2024 Winter</td>
+    <td>2024 Autumn</td>
     <td>1st-year Astronomy and Astrophysics (tutor)</td> 
   </tr>
   <tr>
@@ -212,7 +212,7 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
     <td>3rd-year Computational astrophysics (lab demonstrator)</td> 
   </tr>
   <tr>
-    <td>2023 Winter</td>
+    <td>2023 Autumn</td>
     <td>1st-year Astronomy and Astrophysics (tutor)</td> 
   </tr>
   <tr>
@@ -220,7 +220,7 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
     <td>3rd-year Computational astrophysics (lab demonstrator)</td> 
   </tr>
   <tr>
-    <td>2022 Winter</td>
+    <td>2022 Autumn</td>
     <td>1st-year Astronomy and Astrophysics (lab demonstrator)</td> 
   </tr>
   <tr>
@@ -228,7 +228,7 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
     <td>2nd-year Astronomy and Astrophysics (lab demonstrator)</td> 
   </tr>
   <tr>
-    <td>2021 Winter</td>
+    <td>2021 Autumn</td>
     <td>1st-year Astronomy and Astrophysics (lab demonstrator)</td> 
   </tr>
 </table>
@@ -236,7 +236,7 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
 I co-supervised the following MSc/BSc project students with Prof. Ian Bonnell:
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:95px">2024 Spring</td>
+    <td style="width:100px">2024 Spring</td>
     <td>Pavani Kumar</td> 
   </tr>
   <tr>
@@ -257,7 +257,7 @@ I co-supervised the following MSc/BSc project students with Prof. Ian Bonnell:
 I worked as a Graduate Teaching Assistant for the following undergraduate courses:
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
-    <td style="width:95px">2020 Spring</td>
+    <td style="width:100px">2020 Spring</td>
     <td>2nd-year Mathematics (problem class tutor)</td> 
   </tr>
   <tr>
@@ -277,11 +277,11 @@ I worked as a Graduate Teaching Assistant for the following undergraduate course
     <td>1st-year Mapping the Universe (problem class tutor)</td> 
   </tr>
   <tr>
-    <td>2019 Winter</td>
+    <td>2019 Autumn</td>
     <td>2nd-year Python lab for astrophysics students (lab demonstrator)</td> 
   </tr>
   <tr>
-    <td>2019 Winter</td>
+    <td>2019 Autumn</td>
     <td>3rd-year Advanced Astrophysics Laboratory (lab demonstrator)</td> 
   </tr>
   <tr>
